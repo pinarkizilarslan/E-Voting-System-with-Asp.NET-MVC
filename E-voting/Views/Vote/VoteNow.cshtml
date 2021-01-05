@@ -1,0 +1,90 @@
+﻿@model IEnumerable<E_voting.Models.Model.Candidate>
+@{
+    ViewBag.Title = "VoteNow";
+    Layout = "~/Views/Shared/_SiteLayout.cshtml";
+}
+
+<section id="content">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+
+                <div class="row">
+                    <section id="projects">
+                        <ul id="thumbs" class="portfolio">
+                            <!-- Item Project and Filter Name -->
+
+                            @foreach (var item in Model)
+                            {
+                                <li class="item-thumbs col-lg-2 design" data-id="id-0" data-type="web">
+
+                                    <img src="@item.PhotoPath" alt="@item.City">
+                                    <p></p>
+                                    <p> <b> Candidate ID:</b> @item.CandidateId</p>
+                                    <p><b>@item.Name</b></p>
+                                    <p>@item.City</p>
+
+
+
+                                    <form class="login-form" action="index.html">
+                                        <div class="login-wrap">
+                                            <p class="login-img"><i class="icon_lock_alt"></i></p>
+
+
+                                        </div>
+                                    </form>
+                                </li>
+                            }
+
+
+                            <!-- End Item Project -->
+                        </ul>
+                    </section>
+                </div>
+            </div>
+
+        </div>
+        <div class="row">
+            <div class="col-md-8">
+                <h3>Vote it</h3>
+                <form>
+                    <div>
+                        <input type="text" id="voteid" placeholder="Your Voter ID" required class="form-control" />
+                        <br />
+                        <input type="text" id="candidateid" placeholder="Candidate ID You Selected " required class="form-control" />
+
+                        <br />
+                        <button type="submit" class="btn btn-success" id="Save">SEND</button>
+
+                    </div>
+                </form>
+
+
+            </div>
+        </div>
+    </div>
+
+    
+</section>
+
+<script src="~/Content/SiteLayout/js/jquery.js"></script>
+<script type="text/javascript">
+    $(document).ready(function () {
+
+        $("#Save").click(function () {
+            var vote = $("#voteid").val();
+            var candi = $("#candidateid").val();
+            $.ajax({
+                url: '/Vote/ToVote/',
+                data: {candidate: candi, voter:vote },
+                type: 'POST',
+                dataType: 'json',
+                success: function (data) {
+                    alert("Your vote has been taken. Thank you.");
+                }
+            });
+        });
+    })
+
+</script>
+

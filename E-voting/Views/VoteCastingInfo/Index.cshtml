@@ -1,0 +1,39 @@
+﻿@model IEnumerable<E_voting.Models.Model.VoteCastingInfo>
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+    <script>
+    $(document).ready(function () {
+        $('#myTable').DataTable();
+    });
+    </script>
+
+
+<table class="table table-striped" id="myTable">
+    <thead>
+        <tr>
+            <th>#</th>
+            <th>Position Id</th>
+            <th>Candidate Id</th>
+            <th>Voter Id</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+         {
+        <tr>
+            <td>@item.VoteCastingId</td>
+            <td>@item.PositionId</td>
+            <td>@item.CandidateId</td>
+            <td>@item.Voter.Name</td>
+
+            @*<td>@item.VoteCastingId</td>
+        <td>@item.Position.PositionName</td>
+        <td>@item.Candidate.Name</td>
+        <td>@item.Voter.Name</td>*@
+        </tr>
+         }
+    </tbody>
+</table>
+

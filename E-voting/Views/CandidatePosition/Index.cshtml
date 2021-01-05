@@ -1,0 +1,41 @@
+﻿@model IEnumerable<E_voting.Models.Model.CandidatePosition>
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+@*<script src="~/Scripts/jquery-3.3.1.js"></script>
+<script src="~/Scripts/DataTables/jquery.dataTables.js"></script>
+<link href="~/Content/DataTables/css/jquery.dataTables.css" rel="stylesheet" />*@
+<script>
+    $(document).ready(function () {
+        $('#myTable').DataTable();
+    });
+</script>
+
+
+
+<table class="table table-striped" id="myTable">
+    <thead>
+        <tr>
+            <th>#</th>
+            <th>Candidate Id</th>
+            <th>Position Id</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.CandidatePositionId</td>
+                <td>@item.Candidate.Name</td>
+                <td>@item.PositionId</td>
+
+                @*<td>@item.CandidatePositionId</td>
+                    <td>@item.Candidate.Name</td>
+                    <td>@item.Position.PositionName</td> *@
+
+            </tr>
+        }
+    </tbody>
+</table>
+

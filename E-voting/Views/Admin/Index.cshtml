@@ -1,0 +1,53 @@
+﻿@model IEnumerable<E_voting.Models.Model.Voter>
+@{
+    ViewBag.Title = "Admin Page";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+
+<!--overview start-->
+
+
+<div class="row">
+    <div class="col-lg-4 col-md-3 col-sm-12 col-xs-12">
+        <div class="info-box blue-bg">
+            <i class="fa fa-cubes"></i>
+            <div class="count">@ViewBag.VoterCount</div>
+            <div class="title">Voters</div>
+        </div>
+        <!--/.info-box-->
+    </div>
+
+    <div class="col-lg-4 col-md-3 col-sm-12 col-xs-12">
+        <div class="info-box green-bg">
+            <i class="fa fa-cubes"></i>
+            <div class="count">@ViewBag.CandidateCount</div>
+            <div class="title">Candidates</div>
+        </div>
+        <!--/.info-box-->
+    </div>
+    <!--/.col-->
+
+    <div class="col-lg-4 col-md-3 col-sm-12 col-xs-12">
+        <div class="info-box brown-bg">
+            <i class="fa fa-cubes"></i>
+            <div class="count">@ViewBag.ResultCount</div>
+            <div class="title">Results</div>
+        </div>
+        <!--/.info-box-->
+    </div>
+
+</div>
+
+<div class="text-right">
+    <div class="credits">
+        <!--
+          All the links in the footer should remain intact.
+          You can delete the links only if you purchased the pro version.
+          Licensing information: https://bootstrapmade.com/license/
+          Purchase the pro version form: https://bootstrapmade.com/buy/?theme=NiceAdmin
+        -->
+        @*Designed by <a href="#">E - Voting Admin</a>*@
+    </div>
+</div>
+

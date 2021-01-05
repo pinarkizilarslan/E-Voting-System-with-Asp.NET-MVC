@@ -1,0 +1,85 @@
+﻿@model IEnumerable<E_voting.Models.Model.Result>
+
+@{
+    ViewBag.Title = "Voting Result";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+@*@model IEnumerable<KurumsalWeb.Models.Model.Kategori>
+    <ul class="cat">
+        @foreach (var item in Model)
+        {
+            <li><i class="icon-angle-right"></i><a href="/BlogPost/@item.KategoriId">@item.KategoriAd</a><span> (@item.Blogs.Count())</span></li>
+        }
+    </ul>*@
+
+
+<div class="row">
+
+    <div class="col-lg-9 col-md-12">
+        <div class="panel panel-default">
+            <div class="panel-body">
+                <table class="table bootstrap-datatable countries">
+                    <thead>
+                        <tr>
+                            <th></th>
+                            <th>Winner Candidate Name</th>
+                            <th>Candidate ID</th>
+                            <th>Number of Vote</th>
+                            <th>Performance</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td><img src="" style="height:18px; margin-top:-2px;"></td>
+                            <td>@ViewBag.number</td>
+                            <td>@ViewBag.winnerid</td>
+                            <td>@ViewBag.winnercount</td>
+                            <td>
+                                <div class="progress thin">
+                                    <div class="progress-bar progress-bar-danger" role="progressbar" aria-valuenow="73" aria-valuemin="0" aria-valuemax="100" style="width: 73%">
+                                    </div>
+                                    <div class="progress-bar progress-bar-warning" role="progressbar" aria-valuenow="27" aria-valuemin="0" aria-valuemax="100" style="width: 27%">
+                                    </div>
+                                </div>
+                                <span class="sr-only">3%</span>
+                            </td>
+                        </tr>
+                        <tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.CandidateId)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.VoterId)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.CandidateId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.VoterId)
+            </td>
+            @*<td>
+                    @Html.ActionLink("Edit", "Edit", new { id=item.VoteCastingId }) |
+                    @Html.ActionLink("Details", "Details", new { id=item.VoteCastingId }) |
+                    @Html.ActionLink("Delete", "Delete", new { id=item.VoteCastingId })
+                </td>*@
+        </tr>
+    }
+
+</table>
+

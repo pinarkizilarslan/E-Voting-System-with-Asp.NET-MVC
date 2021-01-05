@@ -1,0 +1,34 @@
+﻿@model IEnumerable<E_voting.Models.Model.Position>
+
+@{
+    ViewBag.Title = "Positions";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.PositionName)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.PositionName)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.PositionId }) |
+            @Html.ActionLink("Details", "Details", new { id=item.PositionId }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.PositionId })
+        </td>
+    </tr>
+}
+
+</table>

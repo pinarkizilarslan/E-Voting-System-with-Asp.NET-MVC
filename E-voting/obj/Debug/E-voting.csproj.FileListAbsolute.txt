@@ -1,0 +1,1516 @@
+C:\Users\damla\Source\Repos\E-voting\E-voting\bin\E-voting.dll.config
+C:\Users\damla\Source\Repos\E-voting\E-voting\bin\E-voting.dll
+C:\Users\damla\Source\Repos\E-voting\E-voting\bin\E-voting.pdb
+C:\Users\damla\Source\Repos\E-voting\E-voting\bin\roslyn\csc.exe
+C:\Users\damla\Source\Repos\E-voting\E-voting\bin\roslyn\csc.exe.config
+C:\Users\damla\Source\Repos\E-voting\E-voting\bin\roslyn\csc.rsp
+C:\Users\damla\Source\Repos\E-voting\E-voting\bin\roslyn\csi.exe
+C:\Users\damla\Source\Repos\E-voting\E-voting\bin\roslyn\csi.exe.config
+C:\Users\damla\Source\Repos\E-voting\E-voting\bin\roslyn\csi.rsp
+C:\Users\damla\Source\Repos\E-voting\E-voting\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\damla\Source\Repos\E-voting\E-voting\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\damla\Source\Repos\E-voting\E-voting\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\damla\Source\Repos\E-voting\E-voting\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\damla\Source\Repos\E-voting\E-voting\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\damla\Source\Repos\E-voting\E-voting\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\damla\Source\Repos\E-voting\E-voting\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\damla\Source\Repos\E-voting\E-voting\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\damla\Source\Repos\E-voting\E-voting\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\damla\Source\Repos\E-voting\E-voting\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\damla\Source\Repos\E-voting\E-voting\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\damla\Source\Repos\E-voting\E-voting\bin\roslyn\System.AppContext.dll
+C:\Users\damla\Source\Repos\E-voting\E-voting\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\damla\Source\Repos\E-voting\E-voting\bin\roslyn\System.Console.dll
+C:\Users\damla\Source\Repos\E-voting\E-voting\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\damla\Source\Repos\E-voting\E-voting\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\damla\Source\Repos\E-voting\E-voting\bin\roslyn\System.IO.Compression.dll
+C:\Users\damla\Source\Repos\E-voting\E-voting\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\damla\Source\Repos\E-voting\E-voting\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\damla\Source\Repos\E-voting\E-voting\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\damla\Source\Repos\E-voting\E-voting\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\damla\Source\Repos\E-voting\E-voting\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\damla\Source\Repos\E-voting\E-voting\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\damla\Source\Repos\E-voting\E-voting\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\damla\Source\Repos\E-voting\E-voting\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\damla\Source\Repos\E-voting\E-voting\bin\roslyn\System.ValueTuple.dll
+C:\Users\damla\Source\Repos\E-voting\E-voting\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\damla\Source\Repos\E-voting\E-voting\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\damla\Source\Repos\E-voting\E-voting\bin\roslyn\System.Xml.XPath.dll
+C:\Users\damla\Source\Repos\E-voting\E-voting\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\damla\Source\Repos\E-voting\E-voting\bin\roslyn\vbc.exe
+C:\Users\damla\Source\Repos\E-voting\E-voting\bin\roslyn\vbc.exe.config
+C:\Users\damla\Source\Repos\E-voting\E-voting\bin\roslyn\vbc.rsp
+C:\Users\damla\Source\Repos\E-voting\E-voting\bin\roslyn\VBCSCompiler.exe
+C:\Users\damla\Source\Repos\E-voting\E-voting\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\damla\Source\Repos\E-voting\E-voting\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\damla\Source\Repos\E-voting\E-voting\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\damla\Source\Repos\E-voting\E-voting\bin\System.Web.Helpers.dll
+C:\Users\damla\Source\Repos\E-voting\E-voting\bin\System.Web.Mvc.dll
+C:\Users\damla\Source\Repos\E-voting\E-voting\bin\System.Web.Razor.dll
+C:\Users\damla\Source\Repos\E-voting\E-voting\bin\System.Web.Webpages.Deployment.dll
+C:\Users\damla\Source\Repos\E-voting\E-voting\bin\System.Web.Webpages.dll
+C:\Users\damla\Source\Repos\E-voting\E-voting\bin\System.Web.Webpages.Razor.dll
+C:\Users\damla\Source\Repos\E-voting\E-voting\bin\System.Web.Razor.xml
+C:\Users\damla\Source\Repos\E-voting\E-voting\bin\System.Web.Webpages.xml
+C:\Users\damla\Source\Repos\E-voting\E-voting\bin\System.Web.Webpages.Deployment.xml
+C:\Users\damla\Source\Repos\E-voting\E-voting\bin\System.Web.Webpages.Razor.xml
+C:\Users\damla\Source\Repos\E-voting\E-voting\bin\System.Web.Helpers.xml
+C:\Users\damla\Source\Repos\E-voting\E-voting\bin\System.Web.Mvc.xml
+C:\Users\damla\Source\Repos\E-voting\E-voting\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\damla\Source\Repos\E-voting\E-voting\obj\Debug\E-voting.csprojAssemblyReference.cache
+C:\Users\damla\Source\Repos\E-voting\E-voting\obj\Debug\E-voting.csproj.CoreCompileInputs.cache
+C:\Users\damla\Source\Repos\E-voting\E-voting\obj\Debug\E-voting.csproj.CopyComplete
+C:\Users\damla\Source\Repos\E-voting\E-voting\obj\Debug\E-voting.dll
+C:\Users\damla\Source\Repos\E-voting\E-voting\obj\Debug\E-voting.pdb
+C:\Users\damla\Source\Repos\E-voting\E-voting\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\damla\Source\Repos\E-voting\E-voting\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\damla\Source\Repos\E-voting\E-voting\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\damla\Source\Repos\E-voting\E-voting\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\damla\Source\Repos\E-voting\E-voting\bin\roslyn\System.Net.Http.dll
+C:\Users\damla\Source\Repos\E-voting\E-voting\bin\roslyn\System.Net.Sockets.dll
+C:\Users\damla\Source\Repos\E-voting\E-voting\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\damla\Source\Repos\E-voting\E-voting\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ASUS\Desktop\3 - 1\Data Security\PROJE\1.versiyon\E-voting\E-voting\bin\E-voting.dll.config
+C:\Users\ASUS\Desktop\3 - 1\Data Security\PROJE\1.versiyon\E-voting\E-voting\bin\E-voting.dll
+C:\Users\ASUS\Desktop\3 - 1\Data Security\PROJE\1.versiyon\E-voting\E-voting\bin\E-voting.pdb
+C:\Users\ASUS\Desktop\3 - 1\Data Security\PROJE\1.versiyon\E-voting\E-voting\bin\roslyn\csc.exe
+C:\Users\ASUS\Desktop\3 - 1\Data Security\PROJE\1.versiyon\E-voting\E-voting\bin\roslyn\csc.exe.config
+C:\Users\ASUS\Desktop\3 - 1\Data Security\PROJE\1.versiyon\E-voting\E-voting\bin\roslyn\csc.rsp
+C:\Users\ASUS\Desktop\3 - 1\Data Security\PROJE\1.versiyon\E-voting\E-voting\bin\roslyn\csi.exe
+C:\Users\ASUS\Desktop\3 - 1\Data Security\PROJE\1.versiyon\E-voting\E-voting\bin\roslyn\csi.exe.config
+C:\Users\ASUS\Desktop\3 - 1\Data Security\PROJE\1.versiyon\E-voting\E-voting\bin\roslyn\csi.rsp
+C:\Users\ASUS\Desktop\3 - 1\Data Security\PROJE\1.versiyon\E-voting\E-voting\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ASUS\Desktop\3 - 1\Data Security\PROJE\1.versiyon\E-voting\E-voting\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ASUS\Desktop\3 - 1\Data Security\PROJE\1.versiyon\E-voting\E-voting\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ASUS\Desktop\3 - 1\Data Security\PROJE\1.versiyon\E-voting\E-voting\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ASUS\Desktop\3 - 1\Data Security\PROJE\1.versiyon\E-voting\E-voting\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ASUS\Desktop\3 - 1\Data Security\PROJE\1.versiyon\E-voting\E-voting\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ASUS\Desktop\3 - 1\Data Security\PROJE\1.versiyon\E-voting\E-voting\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ASUS\Desktop\3 - 1\Data Security\PROJE\1.versiyon\E-voting\E-voting\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ASUS\Desktop\3 - 1\Data Security\PROJE\1.versiyon\E-voting\E-voting\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ASUS\Desktop\3 - 1\Data Security\PROJE\1.versiyon\E-voting\E-voting\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ASUS\Desktop\3 - 1\Data Security\PROJE\1.versiyon\E-voting\E-voting\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ASUS\Desktop\3 - 1\Data Security\PROJE\1.versiyon\E-voting\E-voting\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ASUS\Desktop\3 - 1\Data Security\PROJE\1.versiyon\E-voting\E-voting\bin\roslyn\System.AppContext.dll
+C:\Users\ASUS\Desktop\3 - 1\Data Security\PROJE\1.versiyon\E-voting\E-voting\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ASUS\Desktop\3 - 1\Data Security\PROJE\1.versiyon\E-voting\E-voting\bin\roslyn\System.Console.dll
+C:\Users\ASUS\Desktop\3 - 1\Data Security\PROJE\1.versiyon\E-voting\E-voting\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ASUS\Desktop\3 - 1\Data Security\PROJE\1.versiyon\E-voting\E-voting\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ASUS\Desktop\3 - 1\Data Security\PROJE\1.versiyon\E-voting\E-voting\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ASUS\Desktop\3 - 1\Data Security\PROJE\1.versiyon\E-voting\E-voting\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\ASUS\Desktop\3 - 1\Data Security\PROJE\1.versiyon\E-voting\E-voting\bin\roslyn\System.IO.Compression.dll
+C:\Users\ASUS\Desktop\3 - 1\Data Security\PROJE\1.versiyon\E-voting\E-voting\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\ASUS\Desktop\3 - 1\Data Security\PROJE\1.versiyon\E-voting\E-voting\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ASUS\Desktop\3 - 1\Data Security\PROJE\1.versiyon\E-voting\E-voting\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ASUS\Desktop\3 - 1\Data Security\PROJE\1.versiyon\E-voting\E-voting\bin\roslyn\System.Net.Http.dll
+C:\Users\ASUS\Desktop\3 - 1\Data Security\PROJE\1.versiyon\E-voting\E-voting\bin\roslyn\System.Net.Sockets.dll
+C:\Users\ASUS\Desktop\3 - 1\Data Security\PROJE\1.versiyon\E-voting\E-voting\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ASUS\Desktop\3 - 1\Data Security\PROJE\1.versiyon\E-voting\E-voting\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ASUS\Desktop\3 - 1\Data Security\PROJE\1.versiyon\E-voting\E-voting\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ASUS\Desktop\3 - 1\Data Security\PROJE\1.versiyon\E-voting\E-voting\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ASUS\Desktop\3 - 1\Data Security\PROJE\1.versiyon\E-voting\E-voting\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ASUS\Desktop\3 - 1\Data Security\PROJE\1.versiyon\E-voting\E-voting\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ASUS\Desktop\3 - 1\Data Security\PROJE\1.versiyon\E-voting\E-voting\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ASUS\Desktop\3 - 1\Data Security\PROJE\1.versiyon\E-voting\E-voting\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ASUS\Desktop\3 - 1\Data Security\PROJE\1.versiyon\E-voting\E-voting\bin\roslyn\System.ValueTuple.dll
+C:\Users\ASUS\Desktop\3 - 1\Data Security\PROJE\1.versiyon\E-voting\E-voting\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ASUS\Desktop\3 - 1\Data Security\PROJE\1.versiyon\E-voting\E-voting\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ASUS\Desktop\3 - 1\Data Security\PROJE\1.versiyon\E-voting\E-voting\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ASUS\Desktop\3 - 1\Data Security\PROJE\1.versiyon\E-voting\E-voting\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ASUS\Desktop\3 - 1\Data Security\PROJE\1.versiyon\E-voting\E-voting\bin\roslyn\vbc.exe
+C:\Users\ASUS\Desktop\3 - 1\Data Security\PROJE\1.versiyon\E-voting\E-voting\bin\roslyn\vbc.exe.config
+C:\Users\ASUS\Desktop\3 - 1\Data Security\PROJE\1.versiyon\E-voting\E-voting\bin\roslyn\vbc.rsp
+C:\Users\ASUS\Desktop\3 - 1\Data Security\PROJE\1.versiyon\E-voting\E-voting\bin\roslyn\VBCSCompiler.exe
+C:\Users\ASUS\Desktop\3 - 1\Data Security\PROJE\1.versiyon\E-voting\E-voting\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ASUS\Desktop\3 - 1\Data Security\PROJE\1.versiyon\E-voting\E-voting\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ASUS\Desktop\3 - 1\Data Security\PROJE\1.versiyon\E-voting\E-voting\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ASUS\Desktop\3 - 1\Data Security\PROJE\1.versiyon\E-voting\E-voting\bin\System.Web.Helpers.dll
+C:\Users\ASUS\Desktop\3 - 1\Data Security\PROJE\1.versiyon\E-voting\E-voting\bin\System.Web.Mvc.dll
+C:\Users\ASUS\Desktop\3 - 1\Data Security\PROJE\1.versiyon\E-voting\E-voting\bin\System.Web.Razor.dll
+C:\Users\ASUS\Desktop\3 - 1\Data Security\PROJE\1.versiyon\E-voting\E-voting\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ASUS\Desktop\3 - 1\Data Security\PROJE\1.versiyon\E-voting\E-voting\bin\System.Web.WebPages.dll
+C:\Users\ASUS\Desktop\3 - 1\Data Security\PROJE\1.versiyon\E-voting\E-voting\bin\System.Web.WebPages.Razor.dll
+C:\Users\ASUS\Desktop\3 - 1\Data Security\PROJE\1.versiyon\E-voting\E-voting\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ASUS\Desktop\3 - 1\Data Security\PROJE\1.versiyon\E-voting\E-voting\bin\System.Web.Helpers.xml
+C:\Users\ASUS\Desktop\3 - 1\Data Security\PROJE\1.versiyon\E-voting\E-voting\bin\System.Web.Mvc.xml
+C:\Users\ASUS\Desktop\3 - 1\Data Security\PROJE\1.versiyon\E-voting\E-voting\bin\System.Web.Razor.xml
+C:\Users\ASUS\Desktop\3 - 1\Data Security\PROJE\1.versiyon\E-voting\E-voting\bin\System.Web.WebPages.xml
+C:\Users\ASUS\Desktop\3 - 1\Data Security\PROJE\1.versiyon\E-voting\E-voting\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ASUS\Desktop\3 - 1\Data Security\PROJE\1.versiyon\E-voting\E-voting\bin\System.Web.WebPages.Razor.xml
+C:\Users\ASUS\Desktop\3 - 1\Data Security\PROJE\1.versiyon\E-voting\E-voting\obj\Debug\E-voting.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\3 - 1\Data Security\PROJE\1.versiyon\E-voting\E-voting\obj\Debug\E-voting.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\3 - 1\Data Security\PROJE\1.versiyon\E-voting\E-voting\obj\Debug\E-voting.csproj.CopyComplete
+C:\Users\ASUS\Desktop\3 - 1\Data Security\PROJE\1.versiyon\E-voting\E-voting\obj\Debug\E-voting.dll
+C:\Users\ASUS\Desktop\3 - 1\Data Security\PROJE\1.versiyon\E-voting\E-voting\obj\Debug\E-voting.pdb
+C:\Users\ASUS\Desktop\3 - 1\Data Security\PROJE\1.versiyon\E-voting\E-voting\bin\EntityFramework.dll
+C:\Users\ASUS\Desktop\3 - 1\Data Security\PROJE\1.versiyon\E-voting\E-voting\bin\EntityFramework.SqlServer.dll
+C:\Users\ASUS\Desktop\3 - 1\Data Security\PROJE\1.versiyon\E-voting\E-voting\bin\EntityFramework.xml
+C:\Users\ASUS\Desktop\3 - 1\Data Security\PROJE\1.versiyon\E-voting\E-voting\bin\EntityFramework.SqlServer.xml
+C:\Users\Ayşe Kaya\Desktop\E-voting\E-voting\bin\E-voting.dll.config
+C:\Users\Ayşe Kaya\Desktop\E-voting\E-voting\bin\E-voting.dll
+C:\Users\Ayşe Kaya\Desktop\E-voting\E-voting\bin\E-voting.pdb
+C:\Users\Ayşe Kaya\Desktop\E-voting\E-voting\bin\roslyn\csc.exe
+C:\Users\Ayşe Kaya\Desktop\E-voting\E-voting\bin\roslyn\csc.exe.config
+C:\Users\Ayşe Kaya\Desktop\E-voting\E-voting\bin\roslyn\csc.rsp
+C:\Users\Ayşe Kaya\Desktop\E-voting\E-voting\bin\roslyn\csi.exe
+C:\Users\Ayşe Kaya\Desktop\E-voting\E-voting\bin\roslyn\csi.exe.config
+C:\Users\Ayşe Kaya\Desktop\E-voting\E-voting\bin\roslyn\csi.rsp
+C:\Users\Ayşe Kaya\Desktop\E-voting\E-voting\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ayşe Kaya\Desktop\E-voting\E-voting\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ayşe Kaya\Desktop\E-voting\E-voting\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Ayşe Kaya\Desktop\E-voting\E-voting\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ayşe Kaya\Desktop\E-voting\E-voting\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Ayşe Kaya\Desktop\E-voting\E-voting\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ayşe Kaya\Desktop\E-voting\E-voting\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ayşe Kaya\Desktop\E-voting\E-voting\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Ayşe Kaya\Desktop\E-voting\E-voting\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Ayşe Kaya\Desktop\E-voting\E-voting\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Ayşe Kaya\Desktop\E-voting\E-voting\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ayşe Kaya\Desktop\E-voting\E-voting\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Ayşe Kaya\Desktop\E-voting\E-voting\bin\roslyn\System.AppContext.dll
+C:\Users\Ayşe Kaya\Desktop\E-voting\E-voting\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ayşe Kaya\Desktop\E-voting\E-voting\bin\roslyn\System.Console.dll
+C:\Users\Ayşe Kaya\Desktop\E-voting\E-voting\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Ayşe Kaya\Desktop\E-voting\E-voting\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Ayşe Kaya\Desktop\E-voting\E-voting\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Ayşe Kaya\Desktop\E-voting\E-voting\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Ayşe Kaya\Desktop\E-voting\E-voting\bin\roslyn\System.IO.Compression.dll
+C:\Users\Ayşe Kaya\Desktop\E-voting\E-voting\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Ayşe Kaya\Desktop\E-voting\E-voting\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Ayşe Kaya\Desktop\E-voting\E-voting\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Ayşe Kaya\Desktop\E-voting\E-voting\bin\roslyn\System.Net.Http.dll
+C:\Users\Ayşe Kaya\Desktop\E-voting\E-voting\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Ayşe Kaya\Desktop\E-voting\E-voting\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ayşe Kaya\Desktop\E-voting\E-voting\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Ayşe Kaya\Desktop\E-voting\E-voting\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Ayşe Kaya\Desktop\E-voting\E-voting\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Ayşe Kaya\Desktop\E-voting\E-voting\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Ayşe Kaya\Desktop\E-voting\E-voting\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Ayşe Kaya\Desktop\E-voting\E-voting\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Ayşe Kaya\Desktop\E-voting\E-voting\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Ayşe Kaya\Desktop\E-voting\E-voting\bin\roslyn\System.ValueTuple.dll
+C:\Users\Ayşe Kaya\Desktop\E-voting\E-voting\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Ayşe Kaya\Desktop\E-voting\E-voting\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Ayşe Kaya\Desktop\E-voting\E-voting\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Ayşe Kaya\Desktop\E-voting\E-voting\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Ayşe Kaya\Desktop\E-voting\E-voting\bin\roslyn\vbc.exe
+C:\Users\Ayşe Kaya\Desktop\E-voting\E-voting\bin\roslyn\vbc.exe.config
+C:\Users\Ayşe Kaya\Desktop\E-voting\E-voting\bin\roslyn\vbc.rsp
+C:\Users\Ayşe Kaya\Desktop\E-voting\E-voting\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ayşe Kaya\Desktop\E-voting\E-voting\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ayşe Kaya\Desktop\E-voting\E-voting\bin\EntityFramework.dll
+C:\Users\Ayşe Kaya\Desktop\E-voting\E-voting\bin\EntityFramework.SqlServer.dll
+C:\Users\Ayşe Kaya\Desktop\E-voting\E-voting\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ayşe Kaya\Desktop\E-voting\E-voting\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ayşe Kaya\Desktop\E-voting\E-voting\bin\System.Web.Helpers.dll
+C:\Users\Ayşe Kaya\Desktop\E-voting\E-voting\bin\System.Web.Mvc.dll
+C:\Users\Ayşe Kaya\Desktop\E-voting\E-voting\bin\System.Web.Razor.dll
+C:\Users\Ayşe Kaya\Desktop\E-voting\E-voting\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Ayşe Kaya\Desktop\E-voting\E-voting\bin\System.Web.WebPages.dll
+C:\Users\Ayşe Kaya\Desktop\E-voting\E-voting\bin\System.Web.WebPages.Razor.dll
+C:\Users\Ayşe Kaya\Desktop\E-voting\E-voting\bin\EntityFramework.xml
+C:\Users\Ayşe Kaya\Desktop\E-voting\E-voting\bin\EntityFramework.SqlServer.xml
+C:\Users\Ayşe Kaya\Desktop\E-voting\E-voting\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ayşe Kaya\Desktop\E-voting\E-voting\bin\System.Web.Helpers.xml
+C:\Users\Ayşe Kaya\Desktop\E-voting\E-voting\bin\System.Web.Mvc.xml
+C:\Users\Ayşe Kaya\Desktop\E-voting\E-voting\bin\System.Web.Razor.xml
+C:\Users\Ayşe Kaya\Desktop\E-voting\E-voting\bin\System.Web.WebPages.xml
+C:\Users\Ayşe Kaya\Desktop\E-voting\E-voting\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ayşe Kaya\Desktop\E-voting\E-voting\bin\System.Web.WebPages.Razor.xml
+C:\Users\Ayşe Kaya\Desktop\E-voting\E-voting\obj\Debug\E-voting.csprojAssemblyReference.cache
+C:\Users\Ayşe Kaya\Desktop\E-voting\E-voting\obj\Debug\E-voting.csproj.CoreCompileInputs.cache
+C:\Users\Ayşe Kaya\Desktop\E-voting\E-voting\obj\Debug\E-voting.csproj.CopyComplete
+C:\Users\Ayşe Kaya\Desktop\E-voting\E-voting\obj\Debug\E-voting.dll
+C:\Users\Ayşe Kaya\Desktop\E-voting\E-voting\obj\Debug\E-voting.pdb
+C:\Users\asus\Downloads\3.Versiyon\3.Versiyon\E-voting\E-voting\bin\E-voting.dll.config
+C:\Users\asus\Downloads\3.Versiyon\3.Versiyon\E-voting\E-voting\bin\E-voting.dll
+C:\Users\asus\Downloads\3.Versiyon\3.Versiyon\E-voting\E-voting\bin\E-voting.pdb
+C:\Users\asus\Downloads\3.Versiyon\3.Versiyon\E-voting\E-voting\bin\roslyn\csc.exe
+C:\Users\asus\Downloads\3.Versiyon\3.Versiyon\E-voting\E-voting\bin\roslyn\csc.exe.config
+C:\Users\asus\Downloads\3.Versiyon\3.Versiyon\E-voting\E-voting\bin\roslyn\csc.rsp
+C:\Users\asus\Downloads\3.Versiyon\3.Versiyon\E-voting\E-voting\bin\roslyn\csi.exe
+C:\Users\asus\Downloads\3.Versiyon\3.Versiyon\E-voting\E-voting\bin\roslyn\csi.exe.config
+C:\Users\asus\Downloads\3.Versiyon\3.Versiyon\E-voting\E-voting\bin\roslyn\csi.rsp
+C:\Users\asus\Downloads\3.Versiyon\3.Versiyon\E-voting\E-voting\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\asus\Downloads\3.Versiyon\3.Versiyon\E-voting\E-voting\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\asus\Downloads\3.Versiyon\3.Versiyon\E-voting\E-voting\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\asus\Downloads\3.Versiyon\3.Versiyon\E-voting\E-voting\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\asus\Downloads\3.Versiyon\3.Versiyon\E-voting\E-voting\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\asus\Downloads\3.Versiyon\3.Versiyon\E-voting\E-voting\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\asus\Downloads\3.Versiyon\3.Versiyon\E-voting\E-voting\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\asus\Downloads\3.Versiyon\3.Versiyon\E-voting\E-voting\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\asus\Downloads\3.Versiyon\3.Versiyon\E-voting\E-voting\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\asus\Downloads\3.Versiyon\3.Versiyon\E-voting\E-voting\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\asus\Downloads\3.Versiyon\3.Versiyon\E-voting\E-voting\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\asus\Downloads\3.Versiyon\3.Versiyon\E-voting\E-voting\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\asus\Downloads\3.Versiyon\3.Versiyon\E-voting\E-voting\bin\roslyn\System.AppContext.dll
+C:\Users\asus\Downloads\3.Versiyon\3.Versiyon\E-voting\E-voting\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\asus\Downloads\3.Versiyon\3.Versiyon\E-voting\E-voting\bin\roslyn\System.Console.dll
+C:\Users\asus\Downloads\3.Versiyon\3.Versiyon\E-voting\E-voting\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\asus\Downloads\3.Versiyon\3.Versiyon\E-voting\E-voting\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\asus\Downloads\3.Versiyon\3.Versiyon\E-voting\E-voting\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\asus\Downloads\3.Versiyon\3.Versiyon\E-voting\E-voting\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\asus\Downloads\3.Versiyon\3.Versiyon\E-voting\E-voting\bin\roslyn\System.IO.Compression.dll
+C:\Users\asus\Downloads\3.Versiyon\3.Versiyon\E-voting\E-voting\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\asus\Downloads\3.Versiyon\3.Versiyon\E-voting\E-voting\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\asus\Downloads\3.Versiyon\3.Versiyon\E-voting\E-voting\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\asus\Downloads\3.Versiyon\3.Versiyon\E-voting\E-voting\bin\roslyn\System.Net.Http.dll
+C:\Users\asus\Downloads\3.Versiyon\3.Versiyon\E-voting\E-voting\bin\roslyn\System.Net.Sockets.dll
+C:\Users\asus\Downloads\3.Versiyon\3.Versiyon\E-voting\E-voting\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\asus\Downloads\3.Versiyon\3.Versiyon\E-voting\E-voting\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\asus\Downloads\3.Versiyon\3.Versiyon\E-voting\E-voting\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\asus\Downloads\3.Versiyon\3.Versiyon\E-voting\E-voting\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\asus\Downloads\3.Versiyon\3.Versiyon\E-voting\E-voting\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\asus\Downloads\3.Versiyon\3.Versiyon\E-voting\E-voting\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\asus\Downloads\3.Versiyon\3.Versiyon\E-voting\E-voting\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\asus\Downloads\3.Versiyon\3.Versiyon\E-voting\E-voting\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\asus\Downloads\3.Versiyon\3.Versiyon\E-voting\E-voting\bin\roslyn\System.ValueTuple.dll
+C:\Users\asus\Downloads\3.Versiyon\3.Versiyon\E-voting\E-voting\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\asus\Downloads\3.Versiyon\3.Versiyon\E-voting\E-voting\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\asus\Downloads\3.Versiyon\3.Versiyon\E-voting\E-voting\bin\roslyn\System.Xml.XPath.dll
+C:\Users\asus\Downloads\3.Versiyon\3.Versiyon\E-voting\E-voting\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\asus\Downloads\3.Versiyon\3.Versiyon\E-voting\E-voting\bin\roslyn\vbc.exe
+C:\Users\asus\Downloads\3.Versiyon\3.Versiyon\E-voting\E-voting\bin\roslyn\vbc.exe.config
+C:\Users\asus\Downloads\3.Versiyon\3.Versiyon\E-voting\E-voting\bin\roslyn\vbc.rsp
+C:\Users\asus\Downloads\3.Versiyon\3.Versiyon\E-voting\E-voting\bin\roslyn\VBCSCompiler.exe
+C:\Users\asus\Downloads\3.Versiyon\3.Versiyon\E-voting\E-voting\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\asus\Downloads\3.Versiyon\3.Versiyon\E-voting\E-voting\bin\EntityFramework.dll
+C:\Users\asus\Downloads\3.Versiyon\3.Versiyon\E-voting\E-voting\bin\EntityFramework.SqlServer.dll
+C:\Users\asus\Downloads\3.Versiyon\3.Versiyon\E-voting\E-voting\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\asus\Downloads\3.Versiyon\3.Versiyon\E-voting\E-voting\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\asus\Downloads\3.Versiyon\3.Versiyon\E-voting\E-voting\bin\System.Web.Helpers.dll
+C:\Users\asus\Downloads\3.Versiyon\3.Versiyon\E-voting\E-voting\bin\System.Web.Mvc.dll
+C:\Users\asus\Downloads\3.Versiyon\3.Versiyon\E-voting\E-voting\bin\System.Web.Razor.dll
+C:\Users\asus\Downloads\3.Versiyon\3.Versiyon\E-voting\E-voting\bin\System.Web.WebPages.Deployment.dll
+C:\Users\asus\Downloads\3.Versiyon\3.Versiyon\E-voting\E-voting\bin\System.Web.WebPages.dll
+C:\Users\asus\Downloads\3.Versiyon\3.Versiyon\E-voting\E-voting\bin\System.Web.WebPages.Razor.dll
+C:\Users\asus\Downloads\3.Versiyon\3.Versiyon\E-voting\E-voting\bin\EntityFramework.xml
+C:\Users\asus\Downloads\3.Versiyon\3.Versiyon\E-voting\E-voting\bin\EntityFramework.SqlServer.xml
+C:\Users\asus\Downloads\3.Versiyon\3.Versiyon\E-voting\E-voting\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\asus\Downloads\3.Versiyon\3.Versiyon\E-voting\E-voting\bin\System.Web.Helpers.xml
+C:\Users\asus\Downloads\3.Versiyon\3.Versiyon\E-voting\E-voting\bin\System.Web.Mvc.xml
+C:\Users\asus\Downloads\3.Versiyon\3.Versiyon\E-voting\E-voting\bin\System.Web.Razor.xml
+C:\Users\asus\Downloads\3.Versiyon\3.Versiyon\E-voting\E-voting\bin\System.Web.WebPages.xml
+C:\Users\asus\Downloads\3.Versiyon\3.Versiyon\E-voting\E-voting\bin\System.Web.WebPages.Deployment.xml
+C:\Users\asus\Downloads\3.Versiyon\3.Versiyon\E-voting\E-voting\bin\System.Web.WebPages.Razor.xml
+C:\Users\asus\Downloads\3.Versiyon\3.Versiyon\E-voting\E-voting\obj\Debug\E-voting.csprojAssemblyReference.cache
+C:\Users\asus\Downloads\3.Versiyon\3.Versiyon\E-voting\E-voting\obj\Debug\E-voting.csproj.CoreCompileInputs.cache
+C:\Users\asus\Downloads\3.Versiyon\3.Versiyon\E-voting\E-voting\obj\Debug\E-voting.csproj.CopyComplete
+C:\Users\asus\Downloads\3.Versiyon\3.Versiyon\E-voting\E-voting\obj\Debug\E-voting.dll
+C:\Users\asus\Downloads\3.Versiyon\3.Versiyon\E-voting\E-voting\obj\Debug\E-voting.pdb
+C:\Users\DELL\Desktop\E-VOTING\4.Versiyon\E-voting\E-voting\bin\E-voting.dll.config
+C:\Users\DELL\Desktop\E-VOTING\4.Versiyon\E-voting\E-voting\bin\E-voting.dll
+C:\Users\DELL\Desktop\E-VOTING\4.Versiyon\E-voting\E-voting\bin\E-voting.pdb
+C:\Users\DELL\Desktop\E-VOTING\4.Versiyon\E-voting\E-voting\bin\roslyn\csc.exe
+C:\Users\DELL\Desktop\E-VOTING\4.Versiyon\E-voting\E-voting\bin\roslyn\csc.exe.config
+C:\Users\DELL\Desktop\E-VOTING\4.Versiyon\E-voting\E-voting\bin\roslyn\csc.rsp
+C:\Users\DELL\Desktop\E-VOTING\4.Versiyon\E-voting\E-voting\bin\roslyn\csi.exe
+C:\Users\DELL\Desktop\E-VOTING\4.Versiyon\E-voting\E-voting\bin\roslyn\csi.exe.config
+C:\Users\DELL\Desktop\E-VOTING\4.Versiyon\E-voting\E-voting\bin\roslyn\csi.rsp
+C:\Users\DELL\Desktop\E-VOTING\4.Versiyon\E-voting\E-voting\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\DELL\Desktop\E-VOTING\4.Versiyon\E-voting\E-voting\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\DELL\Desktop\E-VOTING\4.Versiyon\E-voting\E-voting\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\DELL\Desktop\E-VOTING\4.Versiyon\E-voting\E-voting\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\DELL\Desktop\E-VOTING\4.Versiyon\E-voting\E-voting\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\DELL\Desktop\E-VOTING\4.Versiyon\E-voting\E-voting\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\DELL\Desktop\E-VOTING\4.Versiyon\E-voting\E-voting\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\DELL\Desktop\E-VOTING\4.Versiyon\E-voting\E-voting\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\DELL\Desktop\E-VOTING\4.Versiyon\E-voting\E-voting\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\DELL\Desktop\E-VOTING\4.Versiyon\E-voting\E-voting\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\DELL\Desktop\E-VOTING\4.Versiyon\E-voting\E-voting\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\DELL\Desktop\E-VOTING\4.Versiyon\E-voting\E-voting\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\DELL\Desktop\E-VOTING\4.Versiyon\E-voting\E-voting\bin\roslyn\System.AppContext.dll
+C:\Users\DELL\Desktop\E-VOTING\4.Versiyon\E-voting\E-voting\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\DELL\Desktop\E-VOTING\4.Versiyon\E-voting\E-voting\bin\roslyn\System.Console.dll
+C:\Users\DELL\Desktop\E-VOTING\4.Versiyon\E-voting\E-voting\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\DELL\Desktop\E-VOTING\4.Versiyon\E-voting\E-voting\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\DELL\Desktop\E-VOTING\4.Versiyon\E-voting\E-voting\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\DELL\Desktop\E-VOTING\4.Versiyon\E-voting\E-voting\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\DELL\Desktop\E-VOTING\4.Versiyon\E-voting\E-voting\bin\roslyn\System.IO.Compression.dll
+C:\Users\DELL\Desktop\E-VOTING\4.Versiyon\E-voting\E-voting\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\DELL\Desktop\E-VOTING\4.Versiyon\E-voting\E-voting\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\DELL\Desktop\E-VOTING\4.Versiyon\E-voting\E-voting\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\DELL\Desktop\E-VOTING\4.Versiyon\E-voting\E-voting\bin\roslyn\System.Net.Http.dll
+C:\Users\DELL\Desktop\E-VOTING\4.Versiyon\E-voting\E-voting\bin\roslyn\System.Net.Sockets.dll
+C:\Users\DELL\Desktop\E-VOTING\4.Versiyon\E-voting\E-voting\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\DELL\Desktop\E-VOTING\4.Versiyon\E-voting\E-voting\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\DELL\Desktop\E-VOTING\4.Versiyon\E-voting\E-voting\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\DELL\Desktop\E-VOTING\4.Versiyon\E-voting\E-voting\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\DELL\Desktop\E-VOTING\4.Versiyon\E-voting\E-voting\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\DELL\Desktop\E-VOTING\4.Versiyon\E-voting\E-voting\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\DELL\Desktop\E-VOTING\4.Versiyon\E-voting\E-voting\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\DELL\Desktop\E-VOTING\4.Versiyon\E-voting\E-voting\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\DELL\Desktop\E-VOTING\4.Versiyon\E-voting\E-voting\bin\roslyn\System.ValueTuple.dll
+C:\Users\DELL\Desktop\E-VOTING\4.Versiyon\E-voting\E-voting\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\DELL\Desktop\E-VOTING\4.Versiyon\E-voting\E-voting\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\DELL\Desktop\E-VOTING\4.Versiyon\E-voting\E-voting\bin\roslyn\System.Xml.XPath.dll
+C:\Users\DELL\Desktop\E-VOTING\4.Versiyon\E-voting\E-voting\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\DELL\Desktop\E-VOTING\4.Versiyon\E-voting\E-voting\bin\roslyn\vbc.exe
+C:\Users\DELL\Desktop\E-VOTING\4.Versiyon\E-voting\E-voting\bin\roslyn\vbc.exe.config
+C:\Users\DELL\Desktop\E-VOTING\4.Versiyon\E-voting\E-voting\bin\roslyn\vbc.rsp
+C:\Users\DELL\Desktop\E-VOTING\4.Versiyon\E-voting\E-voting\bin\roslyn\VBCSCompiler.exe
+C:\Users\DELL\Desktop\E-VOTING\4.Versiyon\E-voting\E-voting\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\DELL\Desktop\E-VOTING\4.Versiyon\E-voting\E-voting\bin\EntityFramework.dll
+C:\Users\DELL\Desktop\E-VOTING\4.Versiyon\E-voting\E-voting\bin\EntityFramework.SqlServer.dll
+C:\Users\DELL\Desktop\E-VOTING\4.Versiyon\E-voting\E-voting\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\DELL\Desktop\E-VOTING\4.Versiyon\E-voting\E-voting\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\DELL\Desktop\E-VOTING\4.Versiyon\E-voting\E-voting\bin\System.Web.Helpers.dll
+C:\Users\DELL\Desktop\E-VOTING\4.Versiyon\E-voting\E-voting\bin\System.Web.Mvc.dll
+C:\Users\DELL\Desktop\E-VOTING\4.Versiyon\E-voting\E-voting\bin\System.Web.Razor.dll
+C:\Users\DELL\Desktop\E-VOTING\4.Versiyon\E-voting\E-voting\bin\System.Web.WebPages.Deployment.dll
+C:\Users\DELL\Desktop\E-VOTING\4.Versiyon\E-voting\E-voting\bin\System.Web.WebPages.dll
+C:\Users\DELL\Desktop\E-VOTING\4.Versiyon\E-voting\E-voting\bin\System.Web.WebPages.Razor.dll
+C:\Users\DELL\Desktop\E-VOTING\4.Versiyon\E-voting\E-voting\bin\EntityFramework.xml
+C:\Users\DELL\Desktop\E-VOTING\4.Versiyon\E-voting\E-voting\bin\EntityFramework.SqlServer.xml
+C:\Users\DELL\Desktop\E-VOTING\4.Versiyon\E-voting\E-voting\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\DELL\Desktop\E-VOTING\4.Versiyon\E-voting\E-voting\bin\System.Web.Helpers.xml
+C:\Users\DELL\Desktop\E-VOTING\4.Versiyon\E-voting\E-voting\bin\System.Web.Mvc.xml
+C:\Users\DELL\Desktop\E-VOTING\4.Versiyon\E-voting\E-voting\bin\System.Web.Razor.xml
+C:\Users\DELL\Desktop\E-VOTING\4.Versiyon\E-voting\E-voting\bin\System.Web.WebPages.xml
+C:\Users\DELL\Desktop\E-VOTING\4.Versiyon\E-voting\E-voting\bin\System.Web.WebPages.Deployment.xml
+C:\Users\DELL\Desktop\E-VOTING\4.Versiyon\E-voting\E-voting\bin\System.Web.WebPages.Razor.xml
+C:\Users\DELL\Desktop\E-VOTING\4.Versiyon\E-voting\E-voting\obj\Debug\E-voting.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\E-VOTING\4.Versiyon\E-voting\E-voting\obj\Debug\E-voting.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\E-VOTING\4.Versiyon\E-voting\E-voting\obj\Debug\E-voting.csproj.CopyComplete
+C:\Users\DELL\Desktop\E-VOTING\4.Versiyon\E-voting\E-voting\obj\Debug\E-voting.dll
+C:\Users\DELL\Desktop\E-VOTING\4.Versiyon\E-voting\E-voting\obj\Debug\E-voting.pdb
+C:\Users\DELL\Desktop\E-VOTING\5.Versiyon\E-voting\E-voting\bin\E-voting.dll.config
+C:\Users\DELL\Desktop\E-VOTING\5.Versiyon\E-voting\E-voting\bin\E-voting.dll
+C:\Users\DELL\Desktop\E-VOTING\5.Versiyon\E-voting\E-voting\bin\E-voting.pdb
+C:\Users\DELL\Desktop\E-VOTING\5.Versiyon\E-voting\E-voting\bin\roslyn\csc.exe
+C:\Users\DELL\Desktop\E-VOTING\5.Versiyon\E-voting\E-voting\bin\roslyn\csc.exe.config
+C:\Users\DELL\Desktop\E-VOTING\5.Versiyon\E-voting\E-voting\bin\roslyn\csc.rsp
+C:\Users\DELL\Desktop\E-VOTING\5.Versiyon\E-voting\E-voting\bin\roslyn\csi.exe
+C:\Users\DELL\Desktop\E-VOTING\5.Versiyon\E-voting\E-voting\bin\roslyn\csi.exe.config
+C:\Users\DELL\Desktop\E-VOTING\5.Versiyon\E-voting\E-voting\bin\roslyn\csi.rsp
+C:\Users\DELL\Desktop\E-VOTING\5.Versiyon\E-voting\E-voting\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\DELL\Desktop\E-VOTING\5.Versiyon\E-voting\E-voting\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\DELL\Desktop\E-VOTING\5.Versiyon\E-voting\E-voting\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\DELL\Desktop\E-VOTING\5.Versiyon\E-voting\E-voting\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\DELL\Desktop\E-VOTING\5.Versiyon\E-voting\E-voting\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\DELL\Desktop\E-VOTING\5.Versiyon\E-voting\E-voting\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\DELL\Desktop\E-VOTING\5.Versiyon\E-voting\E-voting\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\DELL\Desktop\E-VOTING\5.Versiyon\E-voting\E-voting\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\DELL\Desktop\E-VOTING\5.Versiyon\E-voting\E-voting\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\DELL\Desktop\E-VOTING\5.Versiyon\E-voting\E-voting\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\DELL\Desktop\E-VOTING\5.Versiyon\E-voting\E-voting\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\DELL\Desktop\E-VOTING\5.Versiyon\E-voting\E-voting\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\DELL\Desktop\E-VOTING\5.Versiyon\E-voting\E-voting\bin\roslyn\System.AppContext.dll
+C:\Users\DELL\Desktop\E-VOTING\5.Versiyon\E-voting\E-voting\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\DELL\Desktop\E-VOTING\5.Versiyon\E-voting\E-voting\bin\roslyn\System.Console.dll
+C:\Users\DELL\Desktop\E-VOTING\5.Versiyon\E-voting\E-voting\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\DELL\Desktop\E-VOTING\5.Versiyon\E-voting\E-voting\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\DELL\Desktop\E-VOTING\5.Versiyon\E-voting\E-voting\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\DELL\Desktop\E-VOTING\5.Versiyon\E-voting\E-voting\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\DELL\Desktop\E-VOTING\5.Versiyon\E-voting\E-voting\bin\roslyn\System.IO.Compression.dll
+C:\Users\DELL\Desktop\E-VOTING\5.Versiyon\E-voting\E-voting\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\DELL\Desktop\E-VOTING\5.Versiyon\E-voting\E-voting\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\DELL\Desktop\E-VOTING\5.Versiyon\E-voting\E-voting\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\DELL\Desktop\E-VOTING\5.Versiyon\E-voting\E-voting\bin\roslyn\System.Net.Http.dll
+C:\Users\DELL\Desktop\E-VOTING\5.Versiyon\E-voting\E-voting\bin\roslyn\System.Net.Sockets.dll
+C:\Users\DELL\Desktop\E-VOTING\5.Versiyon\E-voting\E-voting\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\DELL\Desktop\E-VOTING\5.Versiyon\E-voting\E-voting\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\DELL\Desktop\E-VOTING\5.Versiyon\E-voting\E-voting\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\DELL\Desktop\E-VOTING\5.Versiyon\E-voting\E-voting\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\DELL\Desktop\E-VOTING\5.Versiyon\E-voting\E-voting\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\DELL\Desktop\E-VOTING\5.Versiyon\E-voting\E-voting\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\DELL\Desktop\E-VOTING\5.Versiyon\E-voting\E-voting\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\DELL\Desktop\E-VOTING\5.Versiyon\E-voting\E-voting\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\DELL\Desktop\E-VOTING\5.Versiyon\E-voting\E-voting\bin\roslyn\System.ValueTuple.dll
+C:\Users\DELL\Desktop\E-VOTING\5.Versiyon\E-voting\E-voting\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\DELL\Desktop\E-VOTING\5.Versiyon\E-voting\E-voting\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\DELL\Desktop\E-VOTING\5.Versiyon\E-voting\E-voting\bin\roslyn\System.Xml.XPath.dll
+C:\Users\DELL\Desktop\E-VOTING\5.Versiyon\E-voting\E-voting\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\DELL\Desktop\E-VOTING\5.Versiyon\E-voting\E-voting\bin\roslyn\vbc.exe
+C:\Users\DELL\Desktop\E-VOTING\5.Versiyon\E-voting\E-voting\bin\roslyn\vbc.exe.config
+C:\Users\DELL\Desktop\E-VOTING\5.Versiyon\E-voting\E-voting\bin\roslyn\vbc.rsp
+C:\Users\DELL\Desktop\E-VOTING\5.Versiyon\E-voting\E-voting\bin\roslyn\VBCSCompiler.exe
+C:\Users\DELL\Desktop\E-VOTING\5.Versiyon\E-voting\E-voting\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\DELL\Desktop\E-VOTING\5.Versiyon\E-voting\E-voting\bin\EntityFramework.dll
+C:\Users\DELL\Desktop\E-VOTING\5.Versiyon\E-voting\E-voting\bin\EntityFramework.SqlServer.dll
+C:\Users\DELL\Desktop\E-VOTING\5.Versiyon\E-voting\E-voting\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\DELL\Desktop\E-VOTING\5.Versiyon\E-voting\E-voting\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\DELL\Desktop\E-VOTING\5.Versiyon\E-voting\E-voting\bin\System.Web.Helpers.dll
+C:\Users\DELL\Desktop\E-VOTING\5.Versiyon\E-voting\E-voting\bin\System.Web.Mvc.dll
+C:\Users\DELL\Desktop\E-VOTING\5.Versiyon\E-voting\E-voting\bin\System.Web.Razor.dll
+C:\Users\DELL\Desktop\E-VOTING\5.Versiyon\E-voting\E-voting\bin\System.Web.WebPages.Deployment.dll
+C:\Users\DELL\Desktop\E-VOTING\5.Versiyon\E-voting\E-voting\bin\System.Web.WebPages.dll
+C:\Users\DELL\Desktop\E-VOTING\5.Versiyon\E-voting\E-voting\bin\System.Web.WebPages.Razor.dll
+C:\Users\DELL\Desktop\E-VOTING\5.Versiyon\E-voting\E-voting\bin\EntityFramework.xml
+C:\Users\DELL\Desktop\E-VOTING\5.Versiyon\E-voting\E-voting\bin\EntityFramework.SqlServer.xml
+C:\Users\DELL\Desktop\E-VOTING\5.Versiyon\E-voting\E-voting\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\DELL\Desktop\E-VOTING\5.Versiyon\E-voting\E-voting\bin\System.Web.Helpers.xml
+C:\Users\DELL\Desktop\E-VOTING\5.Versiyon\E-voting\E-voting\bin\System.Web.Mvc.xml
+C:\Users\DELL\Desktop\E-VOTING\5.Versiyon\E-voting\E-voting\bin\System.Web.Razor.xml
+C:\Users\DELL\Desktop\E-VOTING\5.Versiyon\E-voting\E-voting\bin\System.Web.WebPages.xml
+C:\Users\DELL\Desktop\E-VOTING\5.Versiyon\E-voting\E-voting\bin\System.Web.WebPages.Deployment.xml
+C:\Users\DELL\Desktop\E-VOTING\5.Versiyon\E-voting\E-voting\bin\System.Web.WebPages.Razor.xml
+C:\Users\DELL\Desktop\E-VOTING\5.Versiyon\E-voting\E-voting\obj\Debug\E-voting.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\E-VOTING\5.Versiyon\E-voting\E-voting\obj\Debug\E-voting.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\E-VOTING\5.Versiyon\E-voting\E-voting\obj\Debug\E-voting.csproj.CopyComplete
+C:\Users\DELL\Desktop\E-VOTING\5.Versiyon\E-voting\E-voting\obj\Debug\E-voting.dll
+C:\Users\DELL\Desktop\E-VOTING\5.Versiyon\E-voting\E-voting\obj\Debug\E-voting.pdb
+C:\Users\damla\OneDrive\Masaüstü\5.Versiyon\E-voting\E-voting\bin\E-voting.dll.config
+C:\Users\damla\OneDrive\Masaüstü\5.Versiyon\E-voting\E-voting\bin\E-voting.dll
+C:\Users\damla\OneDrive\Masaüstü\5.Versiyon\E-voting\E-voting\bin\E-voting.pdb
+C:\Users\damla\OneDrive\Masaüstü\5.Versiyon\E-voting\E-voting\bin\roslyn\csc.exe
+C:\Users\damla\OneDrive\Masaüstü\5.Versiyon\E-voting\E-voting\bin\roslyn\csc.exe.config
+C:\Users\damla\OneDrive\Masaüstü\5.Versiyon\E-voting\E-voting\bin\roslyn\csc.rsp
+C:\Users\damla\OneDrive\Masaüstü\5.Versiyon\E-voting\E-voting\bin\roslyn\csi.exe
+C:\Users\damla\OneDrive\Masaüstü\5.Versiyon\E-voting\E-voting\bin\roslyn\csi.exe.config
+C:\Users\damla\OneDrive\Masaüstü\5.Versiyon\E-voting\E-voting\bin\roslyn\csi.rsp
+C:\Users\damla\OneDrive\Masaüstü\5.Versiyon\E-voting\E-voting\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\damla\OneDrive\Masaüstü\5.Versiyon\E-voting\E-voting\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\damla\OneDrive\Masaüstü\5.Versiyon\E-voting\E-voting\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\damla\OneDrive\Masaüstü\5.Versiyon\E-voting\E-voting\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\damla\OneDrive\Masaüstü\5.Versiyon\E-voting\E-voting\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\damla\OneDrive\Masaüstü\5.Versiyon\E-voting\E-voting\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\damla\OneDrive\Masaüstü\5.Versiyon\E-voting\E-voting\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\damla\OneDrive\Masaüstü\5.Versiyon\E-voting\E-voting\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\damla\OneDrive\Masaüstü\5.Versiyon\E-voting\E-voting\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\damla\OneDrive\Masaüstü\5.Versiyon\E-voting\E-voting\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\damla\OneDrive\Masaüstü\5.Versiyon\E-voting\E-voting\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\damla\OneDrive\Masaüstü\5.Versiyon\E-voting\E-voting\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\damla\OneDrive\Masaüstü\5.Versiyon\E-voting\E-voting\bin\roslyn\System.AppContext.dll
+C:\Users\damla\OneDrive\Masaüstü\5.Versiyon\E-voting\E-voting\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\damla\OneDrive\Masaüstü\5.Versiyon\E-voting\E-voting\bin\roslyn\System.Console.dll
+C:\Users\damla\OneDrive\Masaüstü\5.Versiyon\E-voting\E-voting\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\damla\OneDrive\Masaüstü\5.Versiyon\E-voting\E-voting\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\damla\OneDrive\Masaüstü\5.Versiyon\E-voting\E-voting\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\damla\OneDrive\Masaüstü\5.Versiyon\E-voting\E-voting\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\damla\OneDrive\Masaüstü\5.Versiyon\E-voting\E-voting\bin\roslyn\System.IO.Compression.dll
+C:\Users\damla\OneDrive\Masaüstü\5.Versiyon\E-voting\E-voting\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\damla\OneDrive\Masaüstü\5.Versiyon\E-voting\E-voting\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\damla\OneDrive\Masaüstü\5.Versiyon\E-voting\E-voting\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\damla\OneDrive\Masaüstü\5.Versiyon\E-voting\E-voting\bin\roslyn\System.Net.Http.dll
+C:\Users\damla\OneDrive\Masaüstü\5.Versiyon\E-voting\E-voting\bin\roslyn\System.Net.Sockets.dll
+C:\Users\damla\OneDrive\Masaüstü\5.Versiyon\E-voting\E-voting\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\damla\OneDrive\Masaüstü\5.Versiyon\E-voting\E-voting\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\damla\OneDrive\Masaüstü\5.Versiyon\E-voting\E-voting\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\damla\OneDrive\Masaüstü\5.Versiyon\E-voting\E-voting\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\damla\OneDrive\Masaüstü\5.Versiyon\E-voting\E-voting\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\damla\OneDrive\Masaüstü\5.Versiyon\E-voting\E-voting\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\damla\OneDrive\Masaüstü\5.Versiyon\E-voting\E-voting\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\damla\OneDrive\Masaüstü\5.Versiyon\E-voting\E-voting\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\damla\OneDrive\Masaüstü\5.Versiyon\E-voting\E-voting\bin\roslyn\System.ValueTuple.dll
+C:\Users\damla\OneDrive\Masaüstü\5.Versiyon\E-voting\E-voting\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\damla\OneDrive\Masaüstü\5.Versiyon\E-voting\E-voting\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\damla\OneDrive\Masaüstü\5.Versiyon\E-voting\E-voting\bin\roslyn\System.Xml.XPath.dll
+C:\Users\damla\OneDrive\Masaüstü\5.Versiyon\E-voting\E-voting\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\damla\OneDrive\Masaüstü\5.Versiyon\E-voting\E-voting\bin\roslyn\vbc.exe
+C:\Users\damla\OneDrive\Masaüstü\5.Versiyon\E-voting\E-voting\bin\roslyn\vbc.exe.config
+C:\Users\damla\OneDrive\Masaüstü\5.Versiyon\E-voting\E-voting\bin\roslyn\vbc.rsp
+C:\Users\damla\OneDrive\Masaüstü\5.Versiyon\E-voting\E-voting\bin\roslyn\VBCSCompiler.exe
+C:\Users\damla\OneDrive\Masaüstü\5.Versiyon\E-voting\E-voting\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\damla\OneDrive\Masaüstü\5.Versiyon\E-voting\E-voting\bin\EntityFramework.dll
+C:\Users\damla\OneDrive\Masaüstü\5.Versiyon\E-voting\E-voting\bin\EntityFramework.SqlServer.dll
+C:\Users\damla\OneDrive\Masaüstü\5.Versiyon\E-voting\E-voting\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\damla\OneDrive\Masaüstü\5.Versiyon\E-voting\E-voting\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\damla\OneDrive\Masaüstü\5.Versiyon\E-voting\E-voting\bin\System.Web.Helpers.dll
+C:\Users\damla\OneDrive\Masaüstü\5.Versiyon\E-voting\E-voting\bin\System.Web.Mvc.dll
+C:\Users\damla\OneDrive\Masaüstü\5.Versiyon\E-voting\E-voting\bin\System.Web.Razor.dll
+C:\Users\damla\OneDrive\Masaüstü\5.Versiyon\E-voting\E-voting\bin\System.Web.WebPages.Deployment.dll
+C:\Users\damla\OneDrive\Masaüstü\5.Versiyon\E-voting\E-voting\bin\System.Web.WebPages.dll
+C:\Users\damla\OneDrive\Masaüstü\5.Versiyon\E-voting\E-voting\bin\System.Web.WebPages.Razor.dll
+C:\Users\damla\OneDrive\Masaüstü\5.Versiyon\E-voting\E-voting\bin\EntityFramework.xml
+C:\Users\damla\OneDrive\Masaüstü\5.Versiyon\E-voting\E-voting\bin\EntityFramework.SqlServer.xml
+C:\Users\damla\OneDrive\Masaüstü\5.Versiyon\E-voting\E-voting\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\damla\OneDrive\Masaüstü\5.Versiyon\E-voting\E-voting\bin\System.Web.Helpers.xml
+C:\Users\damla\OneDrive\Masaüstü\5.Versiyon\E-voting\E-voting\bin\System.Web.Mvc.xml
+C:\Users\damla\OneDrive\Masaüstü\5.Versiyon\E-voting\E-voting\bin\System.Web.Razor.xml
+C:\Users\damla\OneDrive\Masaüstü\5.Versiyon\E-voting\E-voting\bin\System.Web.WebPages.xml
+C:\Users\damla\OneDrive\Masaüstü\5.Versiyon\E-voting\E-voting\bin\System.Web.WebPages.Deployment.xml
+C:\Users\damla\OneDrive\Masaüstü\5.Versiyon\E-voting\E-voting\bin\System.Web.WebPages.Razor.xml
+C:\Users\damla\OneDrive\Masaüstü\5.Versiyon\E-voting\E-voting\obj\Debug\E-voting.csprojAssemblyReference.cache
+C:\Users\damla\OneDrive\Masaüstü\5.Versiyon\E-voting\E-voting\obj\Debug\E-voting.csproj.CoreCompileInputs.cache
+C:\Users\damla\OneDrive\Masaüstü\5.Versiyon\E-voting\E-voting\obj\Debug\E-voting.csproj.CopyComplete
+C:\Users\damla\OneDrive\Masaüstü\5.Versiyon\E-voting\E-voting\obj\Debug\E-voting.dll
+C:\Users\damla\OneDrive\Masaüstü\5.Versiyon\E-voting\E-voting\obj\Debug\E-voting.pdb
+C:\Users\ASUS\Desktop\6.Versiyon\E-voting\E-voting\bin\E-voting.dll.config
+C:\Users\ASUS\Desktop\6.Versiyon\E-voting\E-voting\bin\E-voting.dll
+C:\Users\ASUS\Desktop\6.Versiyon\E-voting\E-voting\bin\E-voting.pdb
+C:\Users\ASUS\Desktop\6.Versiyon\E-voting\E-voting\bin\roslyn\csc.exe
+C:\Users\ASUS\Desktop\6.Versiyon\E-voting\E-voting\bin\roslyn\csc.exe.config
+C:\Users\ASUS\Desktop\6.Versiyon\E-voting\E-voting\bin\roslyn\csc.rsp
+C:\Users\ASUS\Desktop\6.Versiyon\E-voting\E-voting\bin\roslyn\csi.exe
+C:\Users\ASUS\Desktop\6.Versiyon\E-voting\E-voting\bin\roslyn\csi.exe.config
+C:\Users\ASUS\Desktop\6.Versiyon\E-voting\E-voting\bin\roslyn\csi.rsp
+C:\Users\ASUS\Desktop\6.Versiyon\E-voting\E-voting\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ASUS\Desktop\6.Versiyon\E-voting\E-voting\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ASUS\Desktop\6.Versiyon\E-voting\E-voting\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ASUS\Desktop\6.Versiyon\E-voting\E-voting\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ASUS\Desktop\6.Versiyon\E-voting\E-voting\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ASUS\Desktop\6.Versiyon\E-voting\E-voting\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ASUS\Desktop\6.Versiyon\E-voting\E-voting\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ASUS\Desktop\6.Versiyon\E-voting\E-voting\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ASUS\Desktop\6.Versiyon\E-voting\E-voting\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ASUS\Desktop\6.Versiyon\E-voting\E-voting\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ASUS\Desktop\6.Versiyon\E-voting\E-voting\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ASUS\Desktop\6.Versiyon\E-voting\E-voting\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ASUS\Desktop\6.Versiyon\E-voting\E-voting\bin\roslyn\System.AppContext.dll
+C:\Users\ASUS\Desktop\6.Versiyon\E-voting\E-voting\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ASUS\Desktop\6.Versiyon\E-voting\E-voting\bin\roslyn\System.Console.dll
+C:\Users\ASUS\Desktop\6.Versiyon\E-voting\E-voting\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ASUS\Desktop\6.Versiyon\E-voting\E-voting\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ASUS\Desktop\6.Versiyon\E-voting\E-voting\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ASUS\Desktop\6.Versiyon\E-voting\E-voting\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\ASUS\Desktop\6.Versiyon\E-voting\E-voting\bin\roslyn\System.IO.Compression.dll
+C:\Users\ASUS\Desktop\6.Versiyon\E-voting\E-voting\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\ASUS\Desktop\6.Versiyon\E-voting\E-voting\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ASUS\Desktop\6.Versiyon\E-voting\E-voting\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ASUS\Desktop\6.Versiyon\E-voting\E-voting\bin\roslyn\System.Net.Http.dll
+C:\Users\ASUS\Desktop\6.Versiyon\E-voting\E-voting\bin\roslyn\System.Net.Sockets.dll
+C:\Users\ASUS\Desktop\6.Versiyon\E-voting\E-voting\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ASUS\Desktop\6.Versiyon\E-voting\E-voting\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ASUS\Desktop\6.Versiyon\E-voting\E-voting\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ASUS\Desktop\6.Versiyon\E-voting\E-voting\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ASUS\Desktop\6.Versiyon\E-voting\E-voting\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ASUS\Desktop\6.Versiyon\E-voting\E-voting\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ASUS\Desktop\6.Versiyon\E-voting\E-voting\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ASUS\Desktop\6.Versiyon\E-voting\E-voting\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ASUS\Desktop\6.Versiyon\E-voting\E-voting\bin\roslyn\System.ValueTuple.dll
+C:\Users\ASUS\Desktop\6.Versiyon\E-voting\E-voting\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ASUS\Desktop\6.Versiyon\E-voting\E-voting\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ASUS\Desktop\6.Versiyon\E-voting\E-voting\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ASUS\Desktop\6.Versiyon\E-voting\E-voting\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ASUS\Desktop\6.Versiyon\E-voting\E-voting\bin\roslyn\vbc.exe
+C:\Users\ASUS\Desktop\6.Versiyon\E-voting\E-voting\bin\roslyn\vbc.exe.config
+C:\Users\ASUS\Desktop\6.Versiyon\E-voting\E-voting\bin\roslyn\vbc.rsp
+C:\Users\ASUS\Desktop\6.Versiyon\E-voting\E-voting\bin\roslyn\VBCSCompiler.exe
+C:\Users\ASUS\Desktop\6.Versiyon\E-voting\E-voting\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ASUS\Desktop\6.Versiyon\E-voting\E-voting\bin\EntityFramework.dll
+C:\Users\ASUS\Desktop\6.Versiyon\E-voting\E-voting\bin\EntityFramework.SqlServer.dll
+C:\Users\ASUS\Desktop\6.Versiyon\E-voting\E-voting\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ASUS\Desktop\6.Versiyon\E-voting\E-voting\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ASUS\Desktop\6.Versiyon\E-voting\E-voting\bin\System.Web.Helpers.dll
+C:\Users\ASUS\Desktop\6.Versiyon\E-voting\E-voting\bin\System.Web.Mvc.dll
+C:\Users\ASUS\Desktop\6.Versiyon\E-voting\E-voting\bin\System.Web.Razor.dll
+C:\Users\ASUS\Desktop\6.Versiyon\E-voting\E-voting\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ASUS\Desktop\6.Versiyon\E-voting\E-voting\bin\System.Web.WebPages.dll
+C:\Users\ASUS\Desktop\6.Versiyon\E-voting\E-voting\bin\System.Web.WebPages.Razor.dll
+C:\Users\ASUS\Desktop\6.Versiyon\E-voting\E-voting\bin\EntityFramework.xml
+C:\Users\ASUS\Desktop\6.Versiyon\E-voting\E-voting\bin\EntityFramework.SqlServer.xml
+C:\Users\ASUS\Desktop\6.Versiyon\E-voting\E-voting\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ASUS\Desktop\6.Versiyon\E-voting\E-voting\bin\System.Web.Helpers.xml
+C:\Users\ASUS\Desktop\6.Versiyon\E-voting\E-voting\bin\System.Web.Mvc.xml
+C:\Users\ASUS\Desktop\6.Versiyon\E-voting\E-voting\bin\System.Web.Razor.xml
+C:\Users\ASUS\Desktop\6.Versiyon\E-voting\E-voting\bin\System.Web.WebPages.xml
+C:\Users\ASUS\Desktop\6.Versiyon\E-voting\E-voting\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ASUS\Desktop\6.Versiyon\E-voting\E-voting\bin\System.Web.WebPages.Razor.xml
+C:\Users\ASUS\Desktop\6.Versiyon\E-voting\E-voting\obj\Debug\E-voting.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\6.Versiyon\E-voting\E-voting\obj\Debug\E-voting.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\6.Versiyon\E-voting\E-voting\obj\Debug\E-voting.csproj.CopyComplete
+C:\Users\ASUS\Desktop\6.Versiyon\E-voting\E-voting\obj\Debug\E-voting.dll
+C:\Users\ASUS\Desktop\6.Versiyon\E-voting\E-voting\obj\Debug\E-voting.pdb
+C:\Users\ASUS\Desktop\7.Versiyon\E-voting\E-voting\bin\E-voting.dll.config
+C:\Users\ASUS\Desktop\7.Versiyon\E-voting\E-voting\bin\E-voting.dll
+C:\Users\ASUS\Desktop\7.Versiyon\E-voting\E-voting\bin\E-voting.pdb
+C:\Users\ASUS\Desktop\7.Versiyon\E-voting\E-voting\bin\roslyn\csc.exe
+C:\Users\ASUS\Desktop\7.Versiyon\E-voting\E-voting\bin\roslyn\csc.exe.config
+C:\Users\ASUS\Desktop\7.Versiyon\E-voting\E-voting\bin\roslyn\csc.rsp
+C:\Users\ASUS\Desktop\7.Versiyon\E-voting\E-voting\bin\roslyn\csi.exe
+C:\Users\ASUS\Desktop\7.Versiyon\E-voting\E-voting\bin\roslyn\csi.exe.config
+C:\Users\ASUS\Desktop\7.Versiyon\E-voting\E-voting\bin\roslyn\csi.rsp
+C:\Users\ASUS\Desktop\7.Versiyon\E-voting\E-voting\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ASUS\Desktop\7.Versiyon\E-voting\E-voting\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ASUS\Desktop\7.Versiyon\E-voting\E-voting\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ASUS\Desktop\7.Versiyon\E-voting\E-voting\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ASUS\Desktop\7.Versiyon\E-voting\E-voting\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ASUS\Desktop\7.Versiyon\E-voting\E-voting\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ASUS\Desktop\7.Versiyon\E-voting\E-voting\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ASUS\Desktop\7.Versiyon\E-voting\E-voting\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ASUS\Desktop\7.Versiyon\E-voting\E-voting\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ASUS\Desktop\7.Versiyon\E-voting\E-voting\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ASUS\Desktop\7.Versiyon\E-voting\E-voting\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ASUS\Desktop\7.Versiyon\E-voting\E-voting\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ASUS\Desktop\7.Versiyon\E-voting\E-voting\bin\roslyn\System.AppContext.dll
+C:\Users\ASUS\Desktop\7.Versiyon\E-voting\E-voting\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ASUS\Desktop\7.Versiyon\E-voting\E-voting\bin\roslyn\System.Console.dll
+C:\Users\ASUS\Desktop\7.Versiyon\E-voting\E-voting\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ASUS\Desktop\7.Versiyon\E-voting\E-voting\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ASUS\Desktop\7.Versiyon\E-voting\E-voting\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ASUS\Desktop\7.Versiyon\E-voting\E-voting\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\ASUS\Desktop\7.Versiyon\E-voting\E-voting\bin\roslyn\System.IO.Compression.dll
+C:\Users\ASUS\Desktop\7.Versiyon\E-voting\E-voting\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\ASUS\Desktop\7.Versiyon\E-voting\E-voting\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ASUS\Desktop\7.Versiyon\E-voting\E-voting\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ASUS\Desktop\7.Versiyon\E-voting\E-voting\bin\roslyn\System.Net.Http.dll
+C:\Users\ASUS\Desktop\7.Versiyon\E-voting\E-voting\bin\roslyn\System.Net.Sockets.dll
+C:\Users\ASUS\Desktop\7.Versiyon\E-voting\E-voting\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ASUS\Desktop\7.Versiyon\E-voting\E-voting\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ASUS\Desktop\7.Versiyon\E-voting\E-voting\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ASUS\Desktop\7.Versiyon\E-voting\E-voting\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ASUS\Desktop\7.Versiyon\E-voting\E-voting\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ASUS\Desktop\7.Versiyon\E-voting\E-voting\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ASUS\Desktop\7.Versiyon\E-voting\E-voting\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ASUS\Desktop\7.Versiyon\E-voting\E-voting\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ASUS\Desktop\7.Versiyon\E-voting\E-voting\bin\roslyn\System.ValueTuple.dll
+C:\Users\ASUS\Desktop\7.Versiyon\E-voting\E-voting\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ASUS\Desktop\7.Versiyon\E-voting\E-voting\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ASUS\Desktop\7.Versiyon\E-voting\E-voting\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ASUS\Desktop\7.Versiyon\E-voting\E-voting\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ASUS\Desktop\7.Versiyon\E-voting\E-voting\bin\roslyn\vbc.exe
+C:\Users\ASUS\Desktop\7.Versiyon\E-voting\E-voting\bin\roslyn\vbc.exe.config
+C:\Users\ASUS\Desktop\7.Versiyon\E-voting\E-voting\bin\roslyn\vbc.rsp
+C:\Users\ASUS\Desktop\7.Versiyon\E-voting\E-voting\bin\roslyn\VBCSCompiler.exe
+C:\Users\ASUS\Desktop\7.Versiyon\E-voting\E-voting\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ASUS\Desktop\7.Versiyon\E-voting\E-voting\bin\EntityFramework.dll
+C:\Users\ASUS\Desktop\7.Versiyon\E-voting\E-voting\bin\EntityFramework.SqlServer.dll
+C:\Users\ASUS\Desktop\7.Versiyon\E-voting\E-voting\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ASUS\Desktop\7.Versiyon\E-voting\E-voting\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ASUS\Desktop\7.Versiyon\E-voting\E-voting\bin\System.Web.Helpers.dll
+C:\Users\ASUS\Desktop\7.Versiyon\E-voting\E-voting\bin\System.Web.Mvc.dll
+C:\Users\ASUS\Desktop\7.Versiyon\E-voting\E-voting\bin\System.Web.Razor.dll
+C:\Users\ASUS\Desktop\7.Versiyon\E-voting\E-voting\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ASUS\Desktop\7.Versiyon\E-voting\E-voting\bin\System.Web.WebPages.dll
+C:\Users\ASUS\Desktop\7.Versiyon\E-voting\E-voting\bin\System.Web.WebPages.Razor.dll
+C:\Users\ASUS\Desktop\7.Versiyon\E-voting\E-voting\bin\EntityFramework.xml
+C:\Users\ASUS\Desktop\7.Versiyon\E-voting\E-voting\bin\EntityFramework.SqlServer.xml
+C:\Users\ASUS\Desktop\7.Versiyon\E-voting\E-voting\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ASUS\Desktop\7.Versiyon\E-voting\E-voting\bin\System.Web.Helpers.xml
+C:\Users\ASUS\Desktop\7.Versiyon\E-voting\E-voting\bin\System.Web.Mvc.xml
+C:\Users\ASUS\Desktop\7.Versiyon\E-voting\E-voting\bin\System.Web.Razor.xml
+C:\Users\ASUS\Desktop\7.Versiyon\E-voting\E-voting\bin\System.Web.WebPages.xml
+C:\Users\ASUS\Desktop\7.Versiyon\E-voting\E-voting\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ASUS\Desktop\7.Versiyon\E-voting\E-voting\bin\System.Web.WebPages.Razor.xml
+C:\Users\ASUS\Desktop\7.Versiyon\E-voting\E-voting\obj\Debug\E-voting.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\7.Versiyon\E-voting\E-voting\obj\Debug\E-voting.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\7.Versiyon\E-voting\E-voting\obj\Debug\E-voting.csproj.CopyComplete
+C:\Users\ASUS\Desktop\7.Versiyon\E-voting\E-voting\obj\Debug\E-voting.dll
+C:\Users\ASUS\Desktop\7.Versiyon\E-voting\E-voting\obj\Debug\E-voting.pdb
+C:\Users\damla\OneDrive\Masaüstü\8.Versiyon\E-voting\E-voting\bin\E-voting.dll.config
+C:\Users\damla\OneDrive\Masaüstü\8.Versiyon\E-voting\E-voting\bin\E-voting.dll
+C:\Users\damla\OneDrive\Masaüstü\8.Versiyon\E-voting\E-voting\bin\E-voting.pdb
+C:\Users\damla\OneDrive\Masaüstü\8.Versiyon\E-voting\E-voting\bin\roslyn\csc.exe
+C:\Users\damla\OneDrive\Masaüstü\8.Versiyon\E-voting\E-voting\bin\roslyn\csc.exe.config
+C:\Users\damla\OneDrive\Masaüstü\8.Versiyon\E-voting\E-voting\bin\roslyn\csc.rsp
+C:\Users\damla\OneDrive\Masaüstü\8.Versiyon\E-voting\E-voting\bin\roslyn\csi.exe
+C:\Users\damla\OneDrive\Masaüstü\8.Versiyon\E-voting\E-voting\bin\roslyn\csi.exe.config
+C:\Users\damla\OneDrive\Masaüstü\8.Versiyon\E-voting\E-voting\bin\roslyn\csi.rsp
+C:\Users\damla\OneDrive\Masaüstü\8.Versiyon\E-voting\E-voting\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\damla\OneDrive\Masaüstü\8.Versiyon\E-voting\E-voting\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\damla\OneDrive\Masaüstü\8.Versiyon\E-voting\E-voting\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\damla\OneDrive\Masaüstü\8.Versiyon\E-voting\E-voting\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\damla\OneDrive\Masaüstü\8.Versiyon\E-voting\E-voting\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\damla\OneDrive\Masaüstü\8.Versiyon\E-voting\E-voting\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\damla\OneDrive\Masaüstü\8.Versiyon\E-voting\E-voting\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\damla\OneDrive\Masaüstü\8.Versiyon\E-voting\E-voting\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\damla\OneDrive\Masaüstü\8.Versiyon\E-voting\E-voting\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\damla\OneDrive\Masaüstü\8.Versiyon\E-voting\E-voting\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\damla\OneDrive\Masaüstü\8.Versiyon\E-voting\E-voting\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\damla\OneDrive\Masaüstü\8.Versiyon\E-voting\E-voting\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\damla\OneDrive\Masaüstü\8.Versiyon\E-voting\E-voting\bin\roslyn\System.AppContext.dll
+C:\Users\damla\OneDrive\Masaüstü\8.Versiyon\E-voting\E-voting\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\damla\OneDrive\Masaüstü\8.Versiyon\E-voting\E-voting\bin\roslyn\System.Console.dll
+C:\Users\damla\OneDrive\Masaüstü\8.Versiyon\E-voting\E-voting\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\damla\OneDrive\Masaüstü\8.Versiyon\E-voting\E-voting\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\damla\OneDrive\Masaüstü\8.Versiyon\E-voting\E-voting\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\damla\OneDrive\Masaüstü\8.Versiyon\E-voting\E-voting\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\damla\OneDrive\Masaüstü\8.Versiyon\E-voting\E-voting\bin\roslyn\System.IO.Compression.dll
+C:\Users\damla\OneDrive\Masaüstü\8.Versiyon\E-voting\E-voting\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\damla\OneDrive\Masaüstü\8.Versiyon\E-voting\E-voting\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\damla\OneDrive\Masaüstü\8.Versiyon\E-voting\E-voting\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\damla\OneDrive\Masaüstü\8.Versiyon\E-voting\E-voting\bin\roslyn\System.Net.Http.dll
+C:\Users\damla\OneDrive\Masaüstü\8.Versiyon\E-voting\E-voting\bin\roslyn\System.Net.Sockets.dll
+C:\Users\damla\OneDrive\Masaüstü\8.Versiyon\E-voting\E-voting\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\damla\OneDrive\Masaüstü\8.Versiyon\E-voting\E-voting\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\damla\OneDrive\Masaüstü\8.Versiyon\E-voting\E-voting\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\damla\OneDrive\Masaüstü\8.Versiyon\E-voting\E-voting\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\damla\OneDrive\Masaüstü\8.Versiyon\E-voting\E-voting\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\damla\OneDrive\Masaüstü\8.Versiyon\E-voting\E-voting\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\damla\OneDrive\Masaüstü\8.Versiyon\E-voting\E-voting\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\damla\OneDrive\Masaüstü\8.Versiyon\E-voting\E-voting\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\damla\OneDrive\Masaüstü\8.Versiyon\E-voting\E-voting\bin\roslyn\System.ValueTuple.dll
+C:\Users\damla\OneDrive\Masaüstü\8.Versiyon\E-voting\E-voting\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\damla\OneDrive\Masaüstü\8.Versiyon\E-voting\E-voting\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\damla\OneDrive\Masaüstü\8.Versiyon\E-voting\E-voting\bin\roslyn\System.Xml.XPath.dll
+C:\Users\damla\OneDrive\Masaüstü\8.Versiyon\E-voting\E-voting\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\damla\OneDrive\Masaüstü\8.Versiyon\E-voting\E-voting\bin\roslyn\vbc.exe
+C:\Users\damla\OneDrive\Masaüstü\8.Versiyon\E-voting\E-voting\bin\roslyn\vbc.exe.config
+C:\Users\damla\OneDrive\Masaüstü\8.Versiyon\E-voting\E-voting\bin\roslyn\vbc.rsp
+C:\Users\damla\OneDrive\Masaüstü\8.Versiyon\E-voting\E-voting\bin\roslyn\VBCSCompiler.exe
+C:\Users\damla\OneDrive\Masaüstü\8.Versiyon\E-voting\E-voting\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\damla\OneDrive\Masaüstü\8.Versiyon\E-voting\E-voting\bin\EntityFramework.dll
+C:\Users\damla\OneDrive\Masaüstü\8.Versiyon\E-voting\E-voting\bin\EntityFramework.SqlServer.dll
+C:\Users\damla\OneDrive\Masaüstü\8.Versiyon\E-voting\E-voting\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\damla\OneDrive\Masaüstü\8.Versiyon\E-voting\E-voting\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\damla\OneDrive\Masaüstü\8.Versiyon\E-voting\E-voting\bin\System.Web.Helpers.dll
+C:\Users\damla\OneDrive\Masaüstü\8.Versiyon\E-voting\E-voting\bin\System.Web.Mvc.dll
+C:\Users\damla\OneDrive\Masaüstü\8.Versiyon\E-voting\E-voting\bin\System.Web.Razor.dll
+C:\Users\damla\OneDrive\Masaüstü\8.Versiyon\E-voting\E-voting\bin\System.Web.WebPages.Deployment.dll
+C:\Users\damla\OneDrive\Masaüstü\8.Versiyon\E-voting\E-voting\bin\System.Web.WebPages.dll
+C:\Users\damla\OneDrive\Masaüstü\8.Versiyon\E-voting\E-voting\bin\System.Web.WebPages.Razor.dll
+C:\Users\damla\OneDrive\Masaüstü\8.Versiyon\E-voting\E-voting\bin\EntityFramework.xml
+C:\Users\damla\OneDrive\Masaüstü\8.Versiyon\E-voting\E-voting\bin\EntityFramework.SqlServer.xml
+C:\Users\damla\OneDrive\Masaüstü\8.Versiyon\E-voting\E-voting\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\damla\OneDrive\Masaüstü\8.Versiyon\E-voting\E-voting\bin\System.Web.Helpers.xml
+C:\Users\damla\OneDrive\Masaüstü\8.Versiyon\E-voting\E-voting\bin\System.Web.Mvc.xml
+C:\Users\damla\OneDrive\Masaüstü\8.Versiyon\E-voting\E-voting\bin\System.Web.Razor.xml
+C:\Users\damla\OneDrive\Masaüstü\8.Versiyon\E-voting\E-voting\bin\System.Web.WebPages.xml
+C:\Users\damla\OneDrive\Masaüstü\8.Versiyon\E-voting\E-voting\bin\System.Web.WebPages.Deployment.xml
+C:\Users\damla\OneDrive\Masaüstü\8.Versiyon\E-voting\E-voting\bin\System.Web.WebPages.Razor.xml
+C:\Users\damla\OneDrive\Masaüstü\8.Versiyon\E-voting\E-voting\obj\Debug\E-voting.csprojAssemblyReference.cache
+C:\Users\damla\OneDrive\Masaüstü\8.Versiyon\E-voting\E-voting\obj\Debug\E-voting.csproj.CoreCompileInputs.cache
+C:\Users\damla\OneDrive\Masaüstü\8.Versiyon\E-voting\E-voting\obj\Debug\E-voting.csproj.CopyComplete
+C:\Users\damla\OneDrive\Masaüstü\8.Versiyon\E-voting\E-voting\obj\Debug\E-voting.dll
+C:\Users\damla\OneDrive\Masaüstü\8.Versiyon\E-voting\E-voting\obj\Debug\E-voting.pdb
+C:\Users\damla\OneDrive\Masaüstü\9.Versiyon\E-voting\E-voting\bin\E-voting.dll.config
+C:\Users\damla\OneDrive\Masaüstü\9.Versiyon\E-voting\E-voting\bin\E-voting.dll
+C:\Users\damla\OneDrive\Masaüstü\9.Versiyon\E-voting\E-voting\bin\E-voting.pdb
+C:\Users\damla\OneDrive\Masaüstü\9.Versiyon\E-voting\E-voting\bin\roslyn\csc.exe
+C:\Users\damla\OneDrive\Masaüstü\9.Versiyon\E-voting\E-voting\bin\roslyn\csc.exe.config
+C:\Users\damla\OneDrive\Masaüstü\9.Versiyon\E-voting\E-voting\bin\roslyn\csc.rsp
+C:\Users\damla\OneDrive\Masaüstü\9.Versiyon\E-voting\E-voting\bin\roslyn\csi.exe
+C:\Users\damla\OneDrive\Masaüstü\9.Versiyon\E-voting\E-voting\bin\roslyn\csi.exe.config
+C:\Users\damla\OneDrive\Masaüstü\9.Versiyon\E-voting\E-voting\bin\roslyn\csi.rsp
+C:\Users\damla\OneDrive\Masaüstü\9.Versiyon\E-voting\E-voting\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\damla\OneDrive\Masaüstü\9.Versiyon\E-voting\E-voting\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\damla\OneDrive\Masaüstü\9.Versiyon\E-voting\E-voting\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\damla\OneDrive\Masaüstü\9.Versiyon\E-voting\E-voting\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\damla\OneDrive\Masaüstü\9.Versiyon\E-voting\E-voting\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\damla\OneDrive\Masaüstü\9.Versiyon\E-voting\E-voting\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\damla\OneDrive\Masaüstü\9.Versiyon\E-voting\E-voting\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\damla\OneDrive\Masaüstü\9.Versiyon\E-voting\E-voting\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\damla\OneDrive\Masaüstü\9.Versiyon\E-voting\E-voting\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\damla\OneDrive\Masaüstü\9.Versiyon\E-voting\E-voting\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\damla\OneDrive\Masaüstü\9.Versiyon\E-voting\E-voting\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\damla\OneDrive\Masaüstü\9.Versiyon\E-voting\E-voting\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\damla\OneDrive\Masaüstü\9.Versiyon\E-voting\E-voting\bin\roslyn\System.AppContext.dll
+C:\Users\damla\OneDrive\Masaüstü\9.Versiyon\E-voting\E-voting\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\damla\OneDrive\Masaüstü\9.Versiyon\E-voting\E-voting\bin\roslyn\System.Console.dll
+C:\Users\damla\OneDrive\Masaüstü\9.Versiyon\E-voting\E-voting\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\damla\OneDrive\Masaüstü\9.Versiyon\E-voting\E-voting\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\damla\OneDrive\Masaüstü\9.Versiyon\E-voting\E-voting\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\damla\OneDrive\Masaüstü\9.Versiyon\E-voting\E-voting\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\damla\OneDrive\Masaüstü\9.Versiyon\E-voting\E-voting\bin\roslyn\System.IO.Compression.dll
+C:\Users\damla\OneDrive\Masaüstü\9.Versiyon\E-voting\E-voting\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\damla\OneDrive\Masaüstü\9.Versiyon\E-voting\E-voting\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\damla\OneDrive\Masaüstü\9.Versiyon\E-voting\E-voting\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\damla\OneDrive\Masaüstü\9.Versiyon\E-voting\E-voting\bin\roslyn\System.Net.Http.dll
+C:\Users\damla\OneDrive\Masaüstü\9.Versiyon\E-voting\E-voting\bin\roslyn\System.Net.Sockets.dll
+C:\Users\damla\OneDrive\Masaüstü\9.Versiyon\E-voting\E-voting\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\damla\OneDrive\Masaüstü\9.Versiyon\E-voting\E-voting\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\damla\OneDrive\Masaüstü\9.Versiyon\E-voting\E-voting\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\damla\OneDrive\Masaüstü\9.Versiyon\E-voting\E-voting\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\damla\OneDrive\Masaüstü\9.Versiyon\E-voting\E-voting\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\damla\OneDrive\Masaüstü\9.Versiyon\E-voting\E-voting\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\damla\OneDrive\Masaüstü\9.Versiyon\E-voting\E-voting\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\damla\OneDrive\Masaüstü\9.Versiyon\E-voting\E-voting\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\damla\OneDrive\Masaüstü\9.Versiyon\E-voting\E-voting\bin\roslyn\System.ValueTuple.dll
+C:\Users\damla\OneDrive\Masaüstü\9.Versiyon\E-voting\E-voting\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\damla\OneDrive\Masaüstü\9.Versiyon\E-voting\E-voting\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\damla\OneDrive\Masaüstü\9.Versiyon\E-voting\E-voting\bin\roslyn\System.Xml.XPath.dll
+C:\Users\damla\OneDrive\Masaüstü\9.Versiyon\E-voting\E-voting\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\damla\OneDrive\Masaüstü\9.Versiyon\E-voting\E-voting\bin\roslyn\vbc.exe
+C:\Users\damla\OneDrive\Masaüstü\9.Versiyon\E-voting\E-voting\bin\roslyn\vbc.exe.config
+C:\Users\damla\OneDrive\Masaüstü\9.Versiyon\E-voting\E-voting\bin\roslyn\vbc.rsp
+C:\Users\damla\OneDrive\Masaüstü\9.Versiyon\E-voting\E-voting\bin\roslyn\VBCSCompiler.exe
+C:\Users\damla\OneDrive\Masaüstü\9.Versiyon\E-voting\E-voting\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\damla\OneDrive\Masaüstü\9.Versiyon\E-voting\E-voting\bin\EntityFramework.dll
+C:\Users\damla\OneDrive\Masaüstü\9.Versiyon\E-voting\E-voting\bin\EntityFramework.SqlServer.dll
+C:\Users\damla\OneDrive\Masaüstü\9.Versiyon\E-voting\E-voting\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\damla\OneDrive\Masaüstü\9.Versiyon\E-voting\E-voting\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\damla\OneDrive\Masaüstü\9.Versiyon\E-voting\E-voting\bin\System.Web.Helpers.dll
+C:\Users\damla\OneDrive\Masaüstü\9.Versiyon\E-voting\E-voting\bin\System.Web.Mvc.dll
+C:\Users\damla\OneDrive\Masaüstü\9.Versiyon\E-voting\E-voting\bin\System.Web.Razor.dll
+C:\Users\damla\OneDrive\Masaüstü\9.Versiyon\E-voting\E-voting\bin\System.Web.WebPages.Deployment.dll
+C:\Users\damla\OneDrive\Masaüstü\9.Versiyon\E-voting\E-voting\bin\System.Web.WebPages.dll
+C:\Users\damla\OneDrive\Masaüstü\9.Versiyon\E-voting\E-voting\bin\System.Web.WebPages.Razor.dll
+C:\Users\damla\OneDrive\Masaüstü\9.Versiyon\E-voting\E-voting\bin\EntityFramework.xml
+C:\Users\damla\OneDrive\Masaüstü\9.Versiyon\E-voting\E-voting\bin\EntityFramework.SqlServer.xml
+C:\Users\damla\OneDrive\Masaüstü\9.Versiyon\E-voting\E-voting\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\damla\OneDrive\Masaüstü\9.Versiyon\E-voting\E-voting\bin\System.Web.Helpers.xml
+C:\Users\damla\OneDrive\Masaüstü\9.Versiyon\E-voting\E-voting\bin\System.Web.Mvc.xml
+C:\Users\damla\OneDrive\Masaüstü\9.Versiyon\E-voting\E-voting\bin\System.Web.Razor.xml
+C:\Users\damla\OneDrive\Masaüstü\9.Versiyon\E-voting\E-voting\bin\System.Web.WebPages.xml
+C:\Users\damla\OneDrive\Masaüstü\9.Versiyon\E-voting\E-voting\bin\System.Web.WebPages.Deployment.xml
+C:\Users\damla\OneDrive\Masaüstü\9.Versiyon\E-voting\E-voting\bin\System.Web.WebPages.Razor.xml
+C:\Users\damla\OneDrive\Masaüstü\9.Versiyon\E-voting\E-voting\obj\Debug\E-voting.csprojAssemblyReference.cache
+C:\Users\damla\OneDrive\Masaüstü\9.Versiyon\E-voting\E-voting\obj\Debug\E-voting.csproj.CoreCompileInputs.cache
+C:\Users\damla\OneDrive\Masaüstü\9.Versiyon\E-voting\E-voting\obj\Debug\E-voting.csproj.CopyComplete
+C:\Users\damla\OneDrive\Masaüstü\9.Versiyon\E-voting\E-voting\obj\Debug\E-voting.dll
+C:\Users\damla\OneDrive\Masaüstü\9.Versiyon\E-voting\E-voting\obj\Debug\E-voting.pdb
+C:\Users\Ayşe Kaya\Desktop\10.Versiyon\E-voting\E-voting\bin\E-voting.dll.config
+C:\Users\Ayşe Kaya\Desktop\10.Versiyon\E-voting\E-voting\bin\E-voting.dll
+C:\Users\Ayşe Kaya\Desktop\10.Versiyon\E-voting\E-voting\bin\E-voting.pdb
+C:\Users\Ayşe Kaya\Desktop\10.Versiyon\E-voting\E-voting\bin\roslyn\csc.exe
+C:\Users\Ayşe Kaya\Desktop\10.Versiyon\E-voting\E-voting\bin\roslyn\csc.exe.config
+C:\Users\Ayşe Kaya\Desktop\10.Versiyon\E-voting\E-voting\bin\roslyn\csc.rsp
+C:\Users\Ayşe Kaya\Desktop\10.Versiyon\E-voting\E-voting\bin\roslyn\csi.exe
+C:\Users\Ayşe Kaya\Desktop\10.Versiyon\E-voting\E-voting\bin\roslyn\csi.exe.config
+C:\Users\Ayşe Kaya\Desktop\10.Versiyon\E-voting\E-voting\bin\roslyn\csi.rsp
+C:\Users\Ayşe Kaya\Desktop\10.Versiyon\E-voting\E-voting\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ayşe Kaya\Desktop\10.Versiyon\E-voting\E-voting\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ayşe Kaya\Desktop\10.Versiyon\E-voting\E-voting\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Ayşe Kaya\Desktop\10.Versiyon\E-voting\E-voting\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ayşe Kaya\Desktop\10.Versiyon\E-voting\E-voting\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Ayşe Kaya\Desktop\10.Versiyon\E-voting\E-voting\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ayşe Kaya\Desktop\10.Versiyon\E-voting\E-voting\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ayşe Kaya\Desktop\10.Versiyon\E-voting\E-voting\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Ayşe Kaya\Desktop\10.Versiyon\E-voting\E-voting\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Ayşe Kaya\Desktop\10.Versiyon\E-voting\E-voting\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Ayşe Kaya\Desktop\10.Versiyon\E-voting\E-voting\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ayşe Kaya\Desktop\10.Versiyon\E-voting\E-voting\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Ayşe Kaya\Desktop\10.Versiyon\E-voting\E-voting\bin\roslyn\System.AppContext.dll
+C:\Users\Ayşe Kaya\Desktop\10.Versiyon\E-voting\E-voting\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ayşe Kaya\Desktop\10.Versiyon\E-voting\E-voting\bin\roslyn\System.Console.dll
+C:\Users\Ayşe Kaya\Desktop\10.Versiyon\E-voting\E-voting\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Ayşe Kaya\Desktop\10.Versiyon\E-voting\E-voting\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Ayşe Kaya\Desktop\10.Versiyon\E-voting\E-voting\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Ayşe Kaya\Desktop\10.Versiyon\E-voting\E-voting\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Ayşe Kaya\Desktop\10.Versiyon\E-voting\E-voting\bin\roslyn\System.IO.Compression.dll
+C:\Users\Ayşe Kaya\Desktop\10.Versiyon\E-voting\E-voting\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Ayşe Kaya\Desktop\10.Versiyon\E-voting\E-voting\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Ayşe Kaya\Desktop\10.Versiyon\E-voting\E-voting\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Ayşe Kaya\Desktop\10.Versiyon\E-voting\E-voting\bin\roslyn\System.Net.Http.dll
+C:\Users\Ayşe Kaya\Desktop\10.Versiyon\E-voting\E-voting\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Ayşe Kaya\Desktop\10.Versiyon\E-voting\E-voting\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ayşe Kaya\Desktop\10.Versiyon\E-voting\E-voting\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Ayşe Kaya\Desktop\10.Versiyon\E-voting\E-voting\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Ayşe Kaya\Desktop\10.Versiyon\E-voting\E-voting\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Ayşe Kaya\Desktop\10.Versiyon\E-voting\E-voting\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Ayşe Kaya\Desktop\10.Versiyon\E-voting\E-voting\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Ayşe Kaya\Desktop\10.Versiyon\E-voting\E-voting\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Ayşe Kaya\Desktop\10.Versiyon\E-voting\E-voting\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Ayşe Kaya\Desktop\10.Versiyon\E-voting\E-voting\bin\roslyn\System.ValueTuple.dll
+C:\Users\Ayşe Kaya\Desktop\10.Versiyon\E-voting\E-voting\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Ayşe Kaya\Desktop\10.Versiyon\E-voting\E-voting\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Ayşe Kaya\Desktop\10.Versiyon\E-voting\E-voting\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Ayşe Kaya\Desktop\10.Versiyon\E-voting\E-voting\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Ayşe Kaya\Desktop\10.Versiyon\E-voting\E-voting\bin\roslyn\vbc.exe
+C:\Users\Ayşe Kaya\Desktop\10.Versiyon\E-voting\E-voting\bin\roslyn\vbc.exe.config
+C:\Users\Ayşe Kaya\Desktop\10.Versiyon\E-voting\E-voting\bin\roslyn\vbc.rsp
+C:\Users\Ayşe Kaya\Desktop\10.Versiyon\E-voting\E-voting\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ayşe Kaya\Desktop\10.Versiyon\E-voting\E-voting\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ayşe Kaya\Desktop\10.Versiyon\E-voting\E-voting\bin\EntityFramework.dll
+C:\Users\Ayşe Kaya\Desktop\10.Versiyon\E-voting\E-voting\bin\EntityFramework.SqlServer.dll
+C:\Users\Ayşe Kaya\Desktop\10.Versiyon\E-voting\E-voting\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ayşe Kaya\Desktop\10.Versiyon\E-voting\E-voting\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ayşe Kaya\Desktop\10.Versiyon\E-voting\E-voting\bin\System.Web.Helpers.dll
+C:\Users\Ayşe Kaya\Desktop\10.Versiyon\E-voting\E-voting\bin\System.Web.Mvc.dll
+C:\Users\Ayşe Kaya\Desktop\10.Versiyon\E-voting\E-voting\bin\System.Web.Razor.dll
+C:\Users\Ayşe Kaya\Desktop\10.Versiyon\E-voting\E-voting\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Ayşe Kaya\Desktop\10.Versiyon\E-voting\E-voting\bin\System.Web.WebPages.dll
+C:\Users\Ayşe Kaya\Desktop\10.Versiyon\E-voting\E-voting\bin\System.Web.WebPages.Razor.dll
+C:\Users\Ayşe Kaya\Desktop\10.Versiyon\E-voting\E-voting\bin\EntityFramework.xml
+C:\Users\Ayşe Kaya\Desktop\10.Versiyon\E-voting\E-voting\bin\EntityFramework.SqlServer.xml
+C:\Users\Ayşe Kaya\Desktop\10.Versiyon\E-voting\E-voting\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ayşe Kaya\Desktop\10.Versiyon\E-voting\E-voting\bin\System.Web.Helpers.xml
+C:\Users\Ayşe Kaya\Desktop\10.Versiyon\E-voting\E-voting\bin\System.Web.Mvc.xml
+C:\Users\Ayşe Kaya\Desktop\10.Versiyon\E-voting\E-voting\bin\System.Web.Razor.xml
+C:\Users\Ayşe Kaya\Desktop\10.Versiyon\E-voting\E-voting\bin\System.Web.WebPages.xml
+C:\Users\Ayşe Kaya\Desktop\10.Versiyon\E-voting\E-voting\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ayşe Kaya\Desktop\10.Versiyon\E-voting\E-voting\bin\System.Web.WebPages.Razor.xml
+C:\Users\Ayşe Kaya\Desktop\10.Versiyon\E-voting\E-voting\obj\Debug\E-voting.csprojAssemblyReference.cache
+C:\Users\Ayşe Kaya\Desktop\10.Versiyon\E-voting\E-voting\obj\Debug\E-voting.csproj.CoreCompileInputs.cache
+C:\Users\Ayşe Kaya\Desktop\10.Versiyon\E-voting\E-voting\obj\Debug\E-voting.csproj.CopyComplete
+C:\Users\Ayşe Kaya\Desktop\10.Versiyon\E-voting\E-voting\obj\Debug\E-voting.dll
+C:\Users\Ayşe Kaya\Desktop\10.Versiyon\E-voting\E-voting\obj\Debug\E-voting.pdb
+C:\Users\DELL\Desktop\E-VOTING\11.Versiyon\E-voting\E-voting\bin\E-voting.dll.config
+C:\Users\DELL\Desktop\E-VOTING\11.Versiyon\E-voting\E-voting\bin\E-voting.dll
+C:\Users\DELL\Desktop\E-VOTING\11.Versiyon\E-voting\E-voting\bin\E-voting.pdb
+C:\Users\DELL\Desktop\E-VOTING\11.Versiyon\E-voting\E-voting\bin\roslyn\csc.exe
+C:\Users\DELL\Desktop\E-VOTING\11.Versiyon\E-voting\E-voting\bin\roslyn\csc.exe.config
+C:\Users\DELL\Desktop\E-VOTING\11.Versiyon\E-voting\E-voting\bin\roslyn\csc.rsp
+C:\Users\DELL\Desktop\E-VOTING\11.Versiyon\E-voting\E-voting\bin\roslyn\csi.exe
+C:\Users\DELL\Desktop\E-VOTING\11.Versiyon\E-voting\E-voting\bin\roslyn\csi.exe.config
+C:\Users\DELL\Desktop\E-VOTING\11.Versiyon\E-voting\E-voting\bin\roslyn\csi.rsp
+C:\Users\DELL\Desktop\E-VOTING\11.Versiyon\E-voting\E-voting\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\DELL\Desktop\E-VOTING\11.Versiyon\E-voting\E-voting\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\DELL\Desktop\E-VOTING\11.Versiyon\E-voting\E-voting\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\DELL\Desktop\E-VOTING\11.Versiyon\E-voting\E-voting\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\DELL\Desktop\E-VOTING\11.Versiyon\E-voting\E-voting\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\DELL\Desktop\E-VOTING\11.Versiyon\E-voting\E-voting\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\DELL\Desktop\E-VOTING\11.Versiyon\E-voting\E-voting\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\DELL\Desktop\E-VOTING\11.Versiyon\E-voting\E-voting\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\DELL\Desktop\E-VOTING\11.Versiyon\E-voting\E-voting\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\DELL\Desktop\E-VOTING\11.Versiyon\E-voting\E-voting\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\DELL\Desktop\E-VOTING\11.Versiyon\E-voting\E-voting\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\DELL\Desktop\E-VOTING\11.Versiyon\E-voting\E-voting\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\DELL\Desktop\E-VOTING\11.Versiyon\E-voting\E-voting\bin\roslyn\System.AppContext.dll
+C:\Users\DELL\Desktop\E-VOTING\11.Versiyon\E-voting\E-voting\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\DELL\Desktop\E-VOTING\11.Versiyon\E-voting\E-voting\bin\roslyn\System.Console.dll
+C:\Users\DELL\Desktop\E-VOTING\11.Versiyon\E-voting\E-voting\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\DELL\Desktop\E-VOTING\11.Versiyon\E-voting\E-voting\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\DELL\Desktop\E-VOTING\11.Versiyon\E-voting\E-voting\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\DELL\Desktop\E-VOTING\11.Versiyon\E-voting\E-voting\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\DELL\Desktop\E-VOTING\11.Versiyon\E-voting\E-voting\bin\roslyn\System.IO.Compression.dll
+C:\Users\DELL\Desktop\E-VOTING\11.Versiyon\E-voting\E-voting\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\DELL\Desktop\E-VOTING\11.Versiyon\E-voting\E-voting\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\DELL\Desktop\E-VOTING\11.Versiyon\E-voting\E-voting\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\DELL\Desktop\E-VOTING\11.Versiyon\E-voting\E-voting\bin\roslyn\System.Net.Http.dll
+C:\Users\DELL\Desktop\E-VOTING\11.Versiyon\E-voting\E-voting\bin\roslyn\System.Net.Sockets.dll
+C:\Users\DELL\Desktop\E-VOTING\11.Versiyon\E-voting\E-voting\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\DELL\Desktop\E-VOTING\11.Versiyon\E-voting\E-voting\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\DELL\Desktop\E-VOTING\11.Versiyon\E-voting\E-voting\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\DELL\Desktop\E-VOTING\11.Versiyon\E-voting\E-voting\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\DELL\Desktop\E-VOTING\11.Versiyon\E-voting\E-voting\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\DELL\Desktop\E-VOTING\11.Versiyon\E-voting\E-voting\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\DELL\Desktop\E-VOTING\11.Versiyon\E-voting\E-voting\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\DELL\Desktop\E-VOTING\11.Versiyon\E-voting\E-voting\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\DELL\Desktop\E-VOTING\11.Versiyon\E-voting\E-voting\bin\roslyn\System.ValueTuple.dll
+C:\Users\DELL\Desktop\E-VOTING\11.Versiyon\E-voting\E-voting\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\DELL\Desktop\E-VOTING\11.Versiyon\E-voting\E-voting\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\DELL\Desktop\E-VOTING\11.Versiyon\E-voting\E-voting\bin\roslyn\System.Xml.XPath.dll
+C:\Users\DELL\Desktop\E-VOTING\11.Versiyon\E-voting\E-voting\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\DELL\Desktop\E-VOTING\11.Versiyon\E-voting\E-voting\bin\roslyn\vbc.exe
+C:\Users\DELL\Desktop\E-VOTING\11.Versiyon\E-voting\E-voting\bin\roslyn\vbc.exe.config
+C:\Users\DELL\Desktop\E-VOTING\11.Versiyon\E-voting\E-voting\bin\roslyn\vbc.rsp
+C:\Users\DELL\Desktop\E-VOTING\11.Versiyon\E-voting\E-voting\bin\roslyn\VBCSCompiler.exe
+C:\Users\DELL\Desktop\E-VOTING\11.Versiyon\E-voting\E-voting\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\DELL\Desktop\E-VOTING\11.Versiyon\E-voting\E-voting\bin\EntityFramework.dll
+C:\Users\DELL\Desktop\E-VOTING\11.Versiyon\E-voting\E-voting\bin\EntityFramework.SqlServer.dll
+C:\Users\DELL\Desktop\E-VOTING\11.Versiyon\E-voting\E-voting\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\DELL\Desktop\E-VOTING\11.Versiyon\E-voting\E-voting\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\DELL\Desktop\E-VOTING\11.Versiyon\E-voting\E-voting\bin\System.Web.Helpers.dll
+C:\Users\DELL\Desktop\E-VOTING\11.Versiyon\E-voting\E-voting\bin\System.Web.Mvc.dll
+C:\Users\DELL\Desktop\E-VOTING\11.Versiyon\E-voting\E-voting\bin\System.Web.Razor.dll
+C:\Users\DELL\Desktop\E-VOTING\11.Versiyon\E-voting\E-voting\bin\System.Web.WebPages.Deployment.dll
+C:\Users\DELL\Desktop\E-VOTING\11.Versiyon\E-voting\E-voting\bin\System.Web.WebPages.dll
+C:\Users\DELL\Desktop\E-VOTING\11.Versiyon\E-voting\E-voting\bin\System.Web.WebPages.Razor.dll
+C:\Users\DELL\Desktop\E-VOTING\11.Versiyon\E-voting\E-voting\bin\EntityFramework.xml
+C:\Users\DELL\Desktop\E-VOTING\11.Versiyon\E-voting\E-voting\bin\EntityFramework.SqlServer.xml
+C:\Users\DELL\Desktop\E-VOTING\11.Versiyon\E-voting\E-voting\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\DELL\Desktop\E-VOTING\11.Versiyon\E-voting\E-voting\bin\System.Web.Helpers.xml
+C:\Users\DELL\Desktop\E-VOTING\11.Versiyon\E-voting\E-voting\bin\System.Web.Mvc.xml
+C:\Users\DELL\Desktop\E-VOTING\11.Versiyon\E-voting\E-voting\bin\System.Web.Razor.xml
+C:\Users\DELL\Desktop\E-VOTING\11.Versiyon\E-voting\E-voting\bin\System.Web.WebPages.xml
+C:\Users\DELL\Desktop\E-VOTING\11.Versiyon\E-voting\E-voting\bin\System.Web.WebPages.Deployment.xml
+C:\Users\DELL\Desktop\E-VOTING\11.Versiyon\E-voting\E-voting\bin\System.Web.WebPages.Razor.xml
+C:\Users\DELL\Desktop\E-VOTING\11.Versiyon\E-voting\E-voting\obj\Debug\E-voting.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\E-VOTING\11.Versiyon\E-voting\E-voting\obj\Debug\E-voting.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\E-VOTING\11.Versiyon\E-voting\E-voting\obj\Debug\E-voting.csproj.CopyComplete
+C:\Users\DELL\Desktop\E-VOTING\11.Versiyon\E-voting\E-voting\obj\Debug\E-voting.dll
+C:\Users\DELL\Desktop\E-VOTING\11.Versiyon\E-voting\E-voting\obj\Debug\E-voting.pdb
+C:\Users\DELL\Desktop\E-VOTING\12.Versiyon\E-voting\E-voting\bin\E-voting.dll.config
+C:\Users\DELL\Desktop\E-VOTING\12.Versiyon\E-voting\E-voting\bin\E-voting.dll
+C:\Users\DELL\Desktop\E-VOTING\12.Versiyon\E-voting\E-voting\bin\E-voting.pdb
+C:\Users\DELL\Desktop\E-VOTING\12.Versiyon\E-voting\E-voting\bin\roslyn\csc.exe
+C:\Users\DELL\Desktop\E-VOTING\12.Versiyon\E-voting\E-voting\bin\roslyn\csc.exe.config
+C:\Users\DELL\Desktop\E-VOTING\12.Versiyon\E-voting\E-voting\bin\roslyn\csc.rsp
+C:\Users\DELL\Desktop\E-VOTING\12.Versiyon\E-voting\E-voting\bin\roslyn\csi.exe
+C:\Users\DELL\Desktop\E-VOTING\12.Versiyon\E-voting\E-voting\bin\roslyn\csi.exe.config
+C:\Users\DELL\Desktop\E-VOTING\12.Versiyon\E-voting\E-voting\bin\roslyn\csi.rsp
+C:\Users\DELL\Desktop\E-VOTING\12.Versiyon\E-voting\E-voting\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\DELL\Desktop\E-VOTING\12.Versiyon\E-voting\E-voting\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\DELL\Desktop\E-VOTING\12.Versiyon\E-voting\E-voting\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\DELL\Desktop\E-VOTING\12.Versiyon\E-voting\E-voting\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\DELL\Desktop\E-VOTING\12.Versiyon\E-voting\E-voting\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\DELL\Desktop\E-VOTING\12.Versiyon\E-voting\E-voting\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\DELL\Desktop\E-VOTING\12.Versiyon\E-voting\E-voting\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\DELL\Desktop\E-VOTING\12.Versiyon\E-voting\E-voting\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\DELL\Desktop\E-VOTING\12.Versiyon\E-voting\E-voting\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\DELL\Desktop\E-VOTING\12.Versiyon\E-voting\E-voting\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\DELL\Desktop\E-VOTING\12.Versiyon\E-voting\E-voting\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\DELL\Desktop\E-VOTING\12.Versiyon\E-voting\E-voting\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\DELL\Desktop\E-VOTING\12.Versiyon\E-voting\E-voting\bin\roslyn\System.AppContext.dll
+C:\Users\DELL\Desktop\E-VOTING\12.Versiyon\E-voting\E-voting\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\DELL\Desktop\E-VOTING\12.Versiyon\E-voting\E-voting\bin\roslyn\System.Console.dll
+C:\Users\DELL\Desktop\E-VOTING\12.Versiyon\E-voting\E-voting\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\DELL\Desktop\E-VOTING\12.Versiyon\E-voting\E-voting\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\DELL\Desktop\E-VOTING\12.Versiyon\E-voting\E-voting\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\DELL\Desktop\E-VOTING\12.Versiyon\E-voting\E-voting\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\DELL\Desktop\E-VOTING\12.Versiyon\E-voting\E-voting\bin\roslyn\System.IO.Compression.dll
+C:\Users\DELL\Desktop\E-VOTING\12.Versiyon\E-voting\E-voting\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\DELL\Desktop\E-VOTING\12.Versiyon\E-voting\E-voting\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\DELL\Desktop\E-VOTING\12.Versiyon\E-voting\E-voting\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\DELL\Desktop\E-VOTING\12.Versiyon\E-voting\E-voting\bin\roslyn\System.Net.Http.dll
+C:\Users\DELL\Desktop\E-VOTING\12.Versiyon\E-voting\E-voting\bin\roslyn\System.Net.Sockets.dll
+C:\Users\DELL\Desktop\E-VOTING\12.Versiyon\E-voting\E-voting\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\DELL\Desktop\E-VOTING\12.Versiyon\E-voting\E-voting\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\DELL\Desktop\E-VOTING\12.Versiyon\E-voting\E-voting\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\DELL\Desktop\E-VOTING\12.Versiyon\E-voting\E-voting\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\DELL\Desktop\E-VOTING\12.Versiyon\E-voting\E-voting\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\DELL\Desktop\E-VOTING\12.Versiyon\E-voting\E-voting\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\DELL\Desktop\E-VOTING\12.Versiyon\E-voting\E-voting\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\DELL\Desktop\E-VOTING\12.Versiyon\E-voting\E-voting\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\DELL\Desktop\E-VOTING\12.Versiyon\E-voting\E-voting\bin\roslyn\System.ValueTuple.dll
+C:\Users\DELL\Desktop\E-VOTING\12.Versiyon\E-voting\E-voting\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\DELL\Desktop\E-VOTING\12.Versiyon\E-voting\E-voting\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\DELL\Desktop\E-VOTING\12.Versiyon\E-voting\E-voting\bin\roslyn\System.Xml.XPath.dll
+C:\Users\DELL\Desktop\E-VOTING\12.Versiyon\E-voting\E-voting\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\DELL\Desktop\E-VOTING\12.Versiyon\E-voting\E-voting\bin\roslyn\vbc.exe
+C:\Users\DELL\Desktop\E-VOTING\12.Versiyon\E-voting\E-voting\bin\roslyn\vbc.exe.config
+C:\Users\DELL\Desktop\E-VOTING\12.Versiyon\E-voting\E-voting\bin\roslyn\vbc.rsp
+C:\Users\DELL\Desktop\E-VOTING\12.Versiyon\E-voting\E-voting\bin\roslyn\VBCSCompiler.exe
+C:\Users\DELL\Desktop\E-VOTING\12.Versiyon\E-voting\E-voting\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\DELL\Desktop\E-VOTING\12.Versiyon\E-voting\E-voting\bin\EntityFramework.dll
+C:\Users\DELL\Desktop\E-VOTING\12.Versiyon\E-voting\E-voting\bin\EntityFramework.SqlServer.dll
+C:\Users\DELL\Desktop\E-VOTING\12.Versiyon\E-voting\E-voting\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\DELL\Desktop\E-VOTING\12.Versiyon\E-voting\E-voting\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\DELL\Desktop\E-VOTING\12.Versiyon\E-voting\E-voting\bin\System.Web.Helpers.dll
+C:\Users\DELL\Desktop\E-VOTING\12.Versiyon\E-voting\E-voting\bin\System.Web.Mvc.dll
+C:\Users\DELL\Desktop\E-VOTING\12.Versiyon\E-voting\E-voting\bin\System.Web.Razor.dll
+C:\Users\DELL\Desktop\E-VOTING\12.Versiyon\E-voting\E-voting\bin\System.Web.WebPages.Deployment.dll
+C:\Users\DELL\Desktop\E-VOTING\12.Versiyon\E-voting\E-voting\bin\System.Web.WebPages.dll
+C:\Users\DELL\Desktop\E-VOTING\12.Versiyon\E-voting\E-voting\bin\System.Web.WebPages.Razor.dll
+C:\Users\DELL\Desktop\E-VOTING\12.Versiyon\E-voting\E-voting\bin\EntityFramework.xml
+C:\Users\DELL\Desktop\E-VOTING\12.Versiyon\E-voting\E-voting\bin\EntityFramework.SqlServer.xml
+C:\Users\DELL\Desktop\E-VOTING\12.Versiyon\E-voting\E-voting\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\DELL\Desktop\E-VOTING\12.Versiyon\E-voting\E-voting\bin\System.Web.Helpers.xml
+C:\Users\DELL\Desktop\E-VOTING\12.Versiyon\E-voting\E-voting\bin\System.Web.Mvc.xml
+C:\Users\DELL\Desktop\E-VOTING\12.Versiyon\E-voting\E-voting\bin\System.Web.Razor.xml
+C:\Users\DELL\Desktop\E-VOTING\12.Versiyon\E-voting\E-voting\bin\System.Web.WebPages.xml
+C:\Users\DELL\Desktop\E-VOTING\12.Versiyon\E-voting\E-voting\bin\System.Web.WebPages.Deployment.xml
+C:\Users\DELL\Desktop\E-VOTING\12.Versiyon\E-voting\E-voting\bin\System.Web.WebPages.Razor.xml
+C:\Users\DELL\Desktop\E-VOTING\12.Versiyon\E-voting\E-voting\obj\Debug\E-voting.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\E-VOTING\12.Versiyon\E-voting\E-voting\obj\Debug\E-voting.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\E-VOTING\12.Versiyon\E-voting\E-voting\obj\Debug\E-voting.csproj.CopyComplete
+C:\Users\DELL\Desktop\E-VOTING\12.Versiyon\E-voting\E-voting\obj\Debug\E-voting.dll
+C:\Users\DELL\Desktop\E-VOTING\12.Versiyon\E-voting\E-voting\obj\Debug\E-voting.pdb
+C:\Users\DELL\Desktop\E-VOTING\13.Versiyon\E-voting\E-voting\bin\E-voting.dll.config
+C:\Users\DELL\Desktop\E-VOTING\13.Versiyon\E-voting\E-voting\bin\E-voting.dll
+C:\Users\DELL\Desktop\E-VOTING\13.Versiyon\E-voting\E-voting\bin\E-voting.pdb
+C:\Users\DELL\Desktop\E-VOTING\13.Versiyon\E-voting\E-voting\bin\roslyn\csc.exe
+C:\Users\DELL\Desktop\E-VOTING\13.Versiyon\E-voting\E-voting\bin\roslyn\csc.exe.config
+C:\Users\DELL\Desktop\E-VOTING\13.Versiyon\E-voting\E-voting\bin\roslyn\csc.rsp
+C:\Users\DELL\Desktop\E-VOTING\13.Versiyon\E-voting\E-voting\bin\roslyn\csi.exe
+C:\Users\DELL\Desktop\E-VOTING\13.Versiyon\E-voting\E-voting\bin\roslyn\csi.exe.config
+C:\Users\DELL\Desktop\E-VOTING\13.Versiyon\E-voting\E-voting\bin\roslyn\csi.rsp
+C:\Users\DELL\Desktop\E-VOTING\13.Versiyon\E-voting\E-voting\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\DELL\Desktop\E-VOTING\13.Versiyon\E-voting\E-voting\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\DELL\Desktop\E-VOTING\13.Versiyon\E-voting\E-voting\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\DELL\Desktop\E-VOTING\13.Versiyon\E-voting\E-voting\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\DELL\Desktop\E-VOTING\13.Versiyon\E-voting\E-voting\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\DELL\Desktop\E-VOTING\13.Versiyon\E-voting\E-voting\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\DELL\Desktop\E-VOTING\13.Versiyon\E-voting\E-voting\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\DELL\Desktop\E-VOTING\13.Versiyon\E-voting\E-voting\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\DELL\Desktop\E-VOTING\13.Versiyon\E-voting\E-voting\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\DELL\Desktop\E-VOTING\13.Versiyon\E-voting\E-voting\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\DELL\Desktop\E-VOTING\13.Versiyon\E-voting\E-voting\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\DELL\Desktop\E-VOTING\13.Versiyon\E-voting\E-voting\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\DELL\Desktop\E-VOTING\13.Versiyon\E-voting\E-voting\bin\roslyn\System.AppContext.dll
+C:\Users\DELL\Desktop\E-VOTING\13.Versiyon\E-voting\E-voting\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\DELL\Desktop\E-VOTING\13.Versiyon\E-voting\E-voting\bin\roslyn\System.Console.dll
+C:\Users\DELL\Desktop\E-VOTING\13.Versiyon\E-voting\E-voting\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\DELL\Desktop\E-VOTING\13.Versiyon\E-voting\E-voting\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\DELL\Desktop\E-VOTING\13.Versiyon\E-voting\E-voting\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\DELL\Desktop\E-VOTING\13.Versiyon\E-voting\E-voting\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\DELL\Desktop\E-VOTING\13.Versiyon\E-voting\E-voting\bin\roslyn\System.IO.Compression.dll
+C:\Users\DELL\Desktop\E-VOTING\13.Versiyon\E-voting\E-voting\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\DELL\Desktop\E-VOTING\13.Versiyon\E-voting\E-voting\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\DELL\Desktop\E-VOTING\13.Versiyon\E-voting\E-voting\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\DELL\Desktop\E-VOTING\13.Versiyon\E-voting\E-voting\bin\roslyn\System.Net.Http.dll
+C:\Users\DELL\Desktop\E-VOTING\13.Versiyon\E-voting\E-voting\bin\roslyn\System.Net.Sockets.dll
+C:\Users\DELL\Desktop\E-VOTING\13.Versiyon\E-voting\E-voting\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\DELL\Desktop\E-VOTING\13.Versiyon\E-voting\E-voting\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\DELL\Desktop\E-VOTING\13.Versiyon\E-voting\E-voting\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\DELL\Desktop\E-VOTING\13.Versiyon\E-voting\E-voting\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\DELL\Desktop\E-VOTING\13.Versiyon\E-voting\E-voting\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\DELL\Desktop\E-VOTING\13.Versiyon\E-voting\E-voting\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\DELL\Desktop\E-VOTING\13.Versiyon\E-voting\E-voting\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\DELL\Desktop\E-VOTING\13.Versiyon\E-voting\E-voting\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\DELL\Desktop\E-VOTING\13.Versiyon\E-voting\E-voting\bin\roslyn\System.ValueTuple.dll
+C:\Users\DELL\Desktop\E-VOTING\13.Versiyon\E-voting\E-voting\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\DELL\Desktop\E-VOTING\13.Versiyon\E-voting\E-voting\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\DELL\Desktop\E-VOTING\13.Versiyon\E-voting\E-voting\bin\roslyn\System.Xml.XPath.dll
+C:\Users\DELL\Desktop\E-VOTING\13.Versiyon\E-voting\E-voting\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\DELL\Desktop\E-VOTING\13.Versiyon\E-voting\E-voting\bin\roslyn\vbc.exe
+C:\Users\DELL\Desktop\E-VOTING\13.Versiyon\E-voting\E-voting\bin\roslyn\vbc.exe.config
+C:\Users\DELL\Desktop\E-VOTING\13.Versiyon\E-voting\E-voting\bin\roslyn\vbc.rsp
+C:\Users\DELL\Desktop\E-VOTING\13.Versiyon\E-voting\E-voting\bin\roslyn\VBCSCompiler.exe
+C:\Users\DELL\Desktop\E-VOTING\13.Versiyon\E-voting\E-voting\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\DELL\Desktop\E-VOTING\13.Versiyon\E-voting\E-voting\bin\EntityFramework.dll
+C:\Users\DELL\Desktop\E-VOTING\13.Versiyon\E-voting\E-voting\bin\EntityFramework.SqlServer.dll
+C:\Users\DELL\Desktop\E-VOTING\13.Versiyon\E-voting\E-voting\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\DELL\Desktop\E-VOTING\13.Versiyon\E-voting\E-voting\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\DELL\Desktop\E-VOTING\13.Versiyon\E-voting\E-voting\bin\System.Web.Helpers.dll
+C:\Users\DELL\Desktop\E-VOTING\13.Versiyon\E-voting\E-voting\bin\System.Web.Mvc.dll
+C:\Users\DELL\Desktop\E-VOTING\13.Versiyon\E-voting\E-voting\bin\System.Web.Razor.dll
+C:\Users\DELL\Desktop\E-VOTING\13.Versiyon\E-voting\E-voting\bin\System.Web.WebPages.Deployment.dll
+C:\Users\DELL\Desktop\E-VOTING\13.Versiyon\E-voting\E-voting\bin\System.Web.WebPages.dll
+C:\Users\DELL\Desktop\E-VOTING\13.Versiyon\E-voting\E-voting\bin\System.Web.WebPages.Razor.dll
+C:\Users\DELL\Desktop\E-VOTING\13.Versiyon\E-voting\E-voting\bin\EntityFramework.xml
+C:\Users\DELL\Desktop\E-VOTING\13.Versiyon\E-voting\E-voting\bin\EntityFramework.SqlServer.xml
+C:\Users\DELL\Desktop\E-VOTING\13.Versiyon\E-voting\E-voting\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\DELL\Desktop\E-VOTING\13.Versiyon\E-voting\E-voting\bin\System.Web.Helpers.xml
+C:\Users\DELL\Desktop\E-VOTING\13.Versiyon\E-voting\E-voting\bin\System.Web.Mvc.xml
+C:\Users\DELL\Desktop\E-VOTING\13.Versiyon\E-voting\E-voting\bin\System.Web.Razor.xml
+C:\Users\DELL\Desktop\E-VOTING\13.Versiyon\E-voting\E-voting\bin\System.Web.WebPages.xml
+C:\Users\DELL\Desktop\E-VOTING\13.Versiyon\E-voting\E-voting\bin\System.Web.WebPages.Deployment.xml
+C:\Users\DELL\Desktop\E-VOTING\13.Versiyon\E-voting\E-voting\bin\System.Web.WebPages.Razor.xml
+C:\Users\DELL\Desktop\E-VOTING\13.Versiyon\E-voting\E-voting\obj\Debug\E-voting.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\E-VOTING\13.Versiyon\E-voting\E-voting\obj\Debug\E-voting.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\E-VOTING\13.Versiyon\E-voting\E-voting\obj\Debug\E-voting.csproj.CopyComplete
+C:\Users\DELL\Desktop\E-VOTING\13.Versiyon\E-voting\E-voting\obj\Debug\E-voting.dll
+C:\Users\DELL\Desktop\E-VOTING\13.Versiyon\E-voting\E-voting\obj\Debug\E-voting.pdb
+C:\Users\ASUS\Desktop\14.Versiyon\E-voting\E-voting\obj\Debug\E-voting.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\14.Versiyon\E-voting\E-voting\obj\Debug\E-voting.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\14.Versiyon\E-voting\E-voting\obj\Debug\E-voting.dll
+C:\Users\ASUS\Desktop\14.Versiyon\E-voting\E-voting\obj\Debug\E-voting.pdb
+C:\Users\ASUS\Desktop\14.Versiyon\E-voting\E-voting\bin\E-voting.dll.config
+C:\Users\ASUS\Desktop\14.Versiyon\E-voting\E-voting\bin\E-voting.dll
+C:\Users\ASUS\Desktop\14.Versiyon\E-voting\E-voting\bin\E-voting.pdb
+C:\Users\ASUS\Desktop\14.Versiyon\E-voting\E-voting\bin\roslyn\csc.exe
+C:\Users\ASUS\Desktop\14.Versiyon\E-voting\E-voting\bin\roslyn\csc.exe.config
+C:\Users\ASUS\Desktop\14.Versiyon\E-voting\E-voting\bin\roslyn\csc.rsp
+C:\Users\ASUS\Desktop\14.Versiyon\E-voting\E-voting\bin\roslyn\csi.exe
+C:\Users\ASUS\Desktop\14.Versiyon\E-voting\E-voting\bin\roslyn\csi.exe.config
+C:\Users\ASUS\Desktop\14.Versiyon\E-voting\E-voting\bin\roslyn\csi.rsp
+C:\Users\ASUS\Desktop\14.Versiyon\E-voting\E-voting\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ASUS\Desktop\14.Versiyon\E-voting\E-voting\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ASUS\Desktop\14.Versiyon\E-voting\E-voting\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ASUS\Desktop\14.Versiyon\E-voting\E-voting\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ASUS\Desktop\14.Versiyon\E-voting\E-voting\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ASUS\Desktop\14.Versiyon\E-voting\E-voting\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ASUS\Desktop\14.Versiyon\E-voting\E-voting\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ASUS\Desktop\14.Versiyon\E-voting\E-voting\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ASUS\Desktop\14.Versiyon\E-voting\E-voting\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ASUS\Desktop\14.Versiyon\E-voting\E-voting\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ASUS\Desktop\14.Versiyon\E-voting\E-voting\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ASUS\Desktop\14.Versiyon\E-voting\E-voting\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ASUS\Desktop\14.Versiyon\E-voting\E-voting\bin\roslyn\System.AppContext.dll
+C:\Users\ASUS\Desktop\14.Versiyon\E-voting\E-voting\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ASUS\Desktop\14.Versiyon\E-voting\E-voting\bin\roslyn\System.Console.dll
+C:\Users\ASUS\Desktop\14.Versiyon\E-voting\E-voting\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ASUS\Desktop\14.Versiyon\E-voting\E-voting\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ASUS\Desktop\14.Versiyon\E-voting\E-voting\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ASUS\Desktop\14.Versiyon\E-voting\E-voting\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\ASUS\Desktop\14.Versiyon\E-voting\E-voting\bin\roslyn\System.IO.Compression.dll
+C:\Users\ASUS\Desktop\14.Versiyon\E-voting\E-voting\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\ASUS\Desktop\14.Versiyon\E-voting\E-voting\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ASUS\Desktop\14.Versiyon\E-voting\E-voting\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ASUS\Desktop\14.Versiyon\E-voting\E-voting\bin\roslyn\System.Net.Http.dll
+C:\Users\ASUS\Desktop\14.Versiyon\E-voting\E-voting\bin\roslyn\System.Net.Sockets.dll
+C:\Users\ASUS\Desktop\14.Versiyon\E-voting\E-voting\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ASUS\Desktop\14.Versiyon\E-voting\E-voting\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ASUS\Desktop\14.Versiyon\E-voting\E-voting\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ASUS\Desktop\14.Versiyon\E-voting\E-voting\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ASUS\Desktop\14.Versiyon\E-voting\E-voting\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ASUS\Desktop\14.Versiyon\E-voting\E-voting\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ASUS\Desktop\14.Versiyon\E-voting\E-voting\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ASUS\Desktop\14.Versiyon\E-voting\E-voting\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ASUS\Desktop\14.Versiyon\E-voting\E-voting\bin\roslyn\System.ValueTuple.dll
+C:\Users\ASUS\Desktop\14.Versiyon\E-voting\E-voting\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ASUS\Desktop\14.Versiyon\E-voting\E-voting\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ASUS\Desktop\14.Versiyon\E-voting\E-voting\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ASUS\Desktop\14.Versiyon\E-voting\E-voting\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ASUS\Desktop\14.Versiyon\E-voting\E-voting\bin\roslyn\vbc.exe
+C:\Users\ASUS\Desktop\14.Versiyon\E-voting\E-voting\bin\roslyn\vbc.exe.config
+C:\Users\ASUS\Desktop\14.Versiyon\E-voting\E-voting\bin\roslyn\vbc.rsp
+C:\Users\ASUS\Desktop\14.Versiyon\E-voting\E-voting\bin\roslyn\VBCSCompiler.exe
+C:\Users\ASUS\Desktop\14.Versiyon\E-voting\E-voting\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ASUS\Desktop\14.Versiyon\E-voting\E-voting\bin\EntityFramework.dll
+C:\Users\ASUS\Desktop\14.Versiyon\E-voting\E-voting\bin\EntityFramework.SqlServer.dll
+C:\Users\ASUS\Desktop\14.Versiyon\E-voting\E-voting\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ASUS\Desktop\14.Versiyon\E-voting\E-voting\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ASUS\Desktop\14.Versiyon\E-voting\E-voting\bin\System.Web.Helpers.dll
+C:\Users\ASUS\Desktop\14.Versiyon\E-voting\E-voting\bin\System.Web.Mvc.dll
+C:\Users\ASUS\Desktop\14.Versiyon\E-voting\E-voting\bin\System.Web.Razor.dll
+C:\Users\ASUS\Desktop\14.Versiyon\E-voting\E-voting\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ASUS\Desktop\14.Versiyon\E-voting\E-voting\bin\System.Web.WebPages.dll
+C:\Users\ASUS\Desktop\14.Versiyon\E-voting\E-voting\bin\System.Web.WebPages.Razor.dll
+C:\Users\ASUS\Desktop\14.Versiyon\E-voting\E-voting\bin\EntityFramework.xml
+C:\Users\ASUS\Desktop\14.Versiyon\E-voting\E-voting\bin\EntityFramework.SqlServer.xml
+C:\Users\ASUS\Desktop\14.Versiyon\E-voting\E-voting\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ASUS\Desktop\14.Versiyon\E-voting\E-voting\bin\System.Web.Helpers.xml
+C:\Users\ASUS\Desktop\14.Versiyon\E-voting\E-voting\bin\System.Web.Mvc.xml
+C:\Users\ASUS\Desktop\14.Versiyon\E-voting\E-voting\bin\System.Web.Razor.xml
+C:\Users\ASUS\Desktop\14.Versiyon\E-voting\E-voting\bin\System.Web.WebPages.xml
+C:\Users\ASUS\Desktop\14.Versiyon\E-voting\E-voting\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ASUS\Desktop\14.Versiyon\E-voting\E-voting\bin\System.Web.WebPages.Razor.xml
+C:\Users\ASUS\Desktop\14.Versiyon\E-voting\E-voting\obj\Debug\E-voting.csproj.CopyComplete
+C:\Users\DELL\Desktop\E-VOTING\15.Versiyon\E-voting\E-voting\bin\E-voting.dll.config
+C:\Users\DELL\Desktop\E-VOTING\15.Versiyon\E-voting\E-voting\bin\E-voting.dll
+C:\Users\DELL\Desktop\E-VOTING\15.Versiyon\E-voting\E-voting\bin\E-voting.pdb
+C:\Users\DELL\Desktop\E-VOTING\15.Versiyon\E-voting\E-voting\bin\roslyn\csc.exe
+C:\Users\DELL\Desktop\E-VOTING\15.Versiyon\E-voting\E-voting\bin\roslyn\csc.exe.config
+C:\Users\DELL\Desktop\E-VOTING\15.Versiyon\E-voting\E-voting\bin\roslyn\csc.rsp
+C:\Users\DELL\Desktop\E-VOTING\15.Versiyon\E-voting\E-voting\bin\roslyn\csi.exe
+C:\Users\DELL\Desktop\E-VOTING\15.Versiyon\E-voting\E-voting\bin\roslyn\csi.exe.config
+C:\Users\DELL\Desktop\E-VOTING\15.Versiyon\E-voting\E-voting\bin\roslyn\csi.rsp
+C:\Users\DELL\Desktop\E-VOTING\15.Versiyon\E-voting\E-voting\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\DELL\Desktop\E-VOTING\15.Versiyon\E-voting\E-voting\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\DELL\Desktop\E-VOTING\15.Versiyon\E-voting\E-voting\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\DELL\Desktop\E-VOTING\15.Versiyon\E-voting\E-voting\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\DELL\Desktop\E-VOTING\15.Versiyon\E-voting\E-voting\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\DELL\Desktop\E-VOTING\15.Versiyon\E-voting\E-voting\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\DELL\Desktop\E-VOTING\15.Versiyon\E-voting\E-voting\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\DELL\Desktop\E-VOTING\15.Versiyon\E-voting\E-voting\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\DELL\Desktop\E-VOTING\15.Versiyon\E-voting\E-voting\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\DELL\Desktop\E-VOTING\15.Versiyon\E-voting\E-voting\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\DELL\Desktop\E-VOTING\15.Versiyon\E-voting\E-voting\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\DELL\Desktop\E-VOTING\15.Versiyon\E-voting\E-voting\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\DELL\Desktop\E-VOTING\15.Versiyon\E-voting\E-voting\bin\roslyn\System.AppContext.dll
+C:\Users\DELL\Desktop\E-VOTING\15.Versiyon\E-voting\E-voting\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\DELL\Desktop\E-VOTING\15.Versiyon\E-voting\E-voting\bin\roslyn\System.Console.dll
+C:\Users\DELL\Desktop\E-VOTING\15.Versiyon\E-voting\E-voting\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\DELL\Desktop\E-VOTING\15.Versiyon\E-voting\E-voting\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\DELL\Desktop\E-VOTING\15.Versiyon\E-voting\E-voting\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\DELL\Desktop\E-VOTING\15.Versiyon\E-voting\E-voting\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\DELL\Desktop\E-VOTING\15.Versiyon\E-voting\E-voting\bin\roslyn\System.IO.Compression.dll
+C:\Users\DELL\Desktop\E-VOTING\15.Versiyon\E-voting\E-voting\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\DELL\Desktop\E-VOTING\15.Versiyon\E-voting\E-voting\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\DELL\Desktop\E-VOTING\15.Versiyon\E-voting\E-voting\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\DELL\Desktop\E-VOTING\15.Versiyon\E-voting\E-voting\bin\roslyn\System.Net.Http.dll
+C:\Users\DELL\Desktop\E-VOTING\15.Versiyon\E-voting\E-voting\bin\roslyn\System.Net.Sockets.dll
+C:\Users\DELL\Desktop\E-VOTING\15.Versiyon\E-voting\E-voting\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\DELL\Desktop\E-VOTING\15.Versiyon\E-voting\E-voting\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\DELL\Desktop\E-VOTING\15.Versiyon\E-voting\E-voting\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\DELL\Desktop\E-VOTING\15.Versiyon\E-voting\E-voting\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\DELL\Desktop\E-VOTING\15.Versiyon\E-voting\E-voting\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\DELL\Desktop\E-VOTING\15.Versiyon\E-voting\E-voting\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\DELL\Desktop\E-VOTING\15.Versiyon\E-voting\E-voting\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\DELL\Desktop\E-VOTING\15.Versiyon\E-voting\E-voting\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\DELL\Desktop\E-VOTING\15.Versiyon\E-voting\E-voting\bin\roslyn\System.ValueTuple.dll
+C:\Users\DELL\Desktop\E-VOTING\15.Versiyon\E-voting\E-voting\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\DELL\Desktop\E-VOTING\15.Versiyon\E-voting\E-voting\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\DELL\Desktop\E-VOTING\15.Versiyon\E-voting\E-voting\bin\roslyn\System.Xml.XPath.dll
+C:\Users\DELL\Desktop\E-VOTING\15.Versiyon\E-voting\E-voting\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\DELL\Desktop\E-VOTING\15.Versiyon\E-voting\E-voting\bin\roslyn\vbc.exe
+C:\Users\DELL\Desktop\E-VOTING\15.Versiyon\E-voting\E-voting\bin\roslyn\vbc.exe.config
+C:\Users\DELL\Desktop\E-VOTING\15.Versiyon\E-voting\E-voting\bin\roslyn\vbc.rsp
+C:\Users\DELL\Desktop\E-VOTING\15.Versiyon\E-voting\E-voting\bin\roslyn\VBCSCompiler.exe
+C:\Users\DELL\Desktop\E-VOTING\15.Versiyon\E-voting\E-voting\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\DELL\Desktop\E-VOTING\15.Versiyon\E-voting\E-voting\bin\EntityFramework.dll
+C:\Users\DELL\Desktop\E-VOTING\15.Versiyon\E-voting\E-voting\bin\EntityFramework.SqlServer.dll
+C:\Users\DELL\Desktop\E-VOTING\15.Versiyon\E-voting\E-voting\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\DELL\Desktop\E-VOTING\15.Versiyon\E-voting\E-voting\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\DELL\Desktop\E-VOTING\15.Versiyon\E-voting\E-voting\bin\System.Web.Helpers.dll
+C:\Users\DELL\Desktop\E-VOTING\15.Versiyon\E-voting\E-voting\bin\System.Web.Mvc.dll
+C:\Users\DELL\Desktop\E-VOTING\15.Versiyon\E-voting\E-voting\bin\System.Web.Razor.dll
+C:\Users\DELL\Desktop\E-VOTING\15.Versiyon\E-voting\E-voting\bin\System.Web.WebPages.Deployment.dll
+C:\Users\DELL\Desktop\E-VOTING\15.Versiyon\E-voting\E-voting\bin\System.Web.WebPages.dll
+C:\Users\DELL\Desktop\E-VOTING\15.Versiyon\E-voting\E-voting\bin\System.Web.WebPages.Razor.dll
+C:\Users\DELL\Desktop\E-VOTING\15.Versiyon\E-voting\E-voting\bin\EntityFramework.xml
+C:\Users\DELL\Desktop\E-VOTING\15.Versiyon\E-voting\E-voting\bin\EntityFramework.SqlServer.xml
+C:\Users\DELL\Desktop\E-VOTING\15.Versiyon\E-voting\E-voting\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\DELL\Desktop\E-VOTING\15.Versiyon\E-voting\E-voting\bin\System.Web.Helpers.xml
+C:\Users\DELL\Desktop\E-VOTING\15.Versiyon\E-voting\E-voting\bin\System.Web.Mvc.xml
+C:\Users\DELL\Desktop\E-VOTING\15.Versiyon\E-voting\E-voting\bin\System.Web.Razor.xml
+C:\Users\DELL\Desktop\E-VOTING\15.Versiyon\E-voting\E-voting\bin\System.Web.WebPages.xml
+C:\Users\DELL\Desktop\E-VOTING\15.Versiyon\E-voting\E-voting\bin\System.Web.WebPages.Deployment.xml
+C:\Users\DELL\Desktop\E-VOTING\15.Versiyon\E-voting\E-voting\bin\System.Web.WebPages.Razor.xml
+C:\Users\DELL\Desktop\E-VOTING\15.Versiyon\E-voting\E-voting\obj\Debug\E-voting.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\E-VOTING\15.Versiyon\E-voting\E-voting\obj\Debug\E-voting.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\E-VOTING\15.Versiyon\E-voting\E-voting\obj\Debug\E-voting.csproj.CopyComplete
+C:\Users\DELL\Desktop\E-VOTING\15.Versiyon\E-voting\E-voting\obj\Debug\E-voting.dll
+C:\Users\DELL\Desktop\E-VOTING\15.Versiyon\E-voting\E-voting\obj\Debug\E-voting.pdb
+C:\Users\damla\OneDrive\Masaüstü\16.Versiyon\E-voting\E-voting\bin\E-voting.dll.config
+C:\Users\damla\OneDrive\Masaüstü\16.Versiyon\E-voting\E-voting\bin\E-voting.dll
+C:\Users\damla\OneDrive\Masaüstü\16.Versiyon\E-voting\E-voting\bin\E-voting.pdb
+C:\Users\damla\OneDrive\Masaüstü\16.Versiyon\E-voting\E-voting\bin\roslyn\csc.exe
+C:\Users\damla\OneDrive\Masaüstü\16.Versiyon\E-voting\E-voting\bin\roslyn\csc.exe.config
+C:\Users\damla\OneDrive\Masaüstü\16.Versiyon\E-voting\E-voting\bin\roslyn\csc.rsp
+C:\Users\damla\OneDrive\Masaüstü\16.Versiyon\E-voting\E-voting\bin\roslyn\csi.exe
+C:\Users\damla\OneDrive\Masaüstü\16.Versiyon\E-voting\E-voting\bin\roslyn\csi.exe.config
+C:\Users\damla\OneDrive\Masaüstü\16.Versiyon\E-voting\E-voting\bin\roslyn\csi.rsp
+C:\Users\damla\OneDrive\Masaüstü\16.Versiyon\E-voting\E-voting\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\damla\OneDrive\Masaüstü\16.Versiyon\E-voting\E-voting\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\damla\OneDrive\Masaüstü\16.Versiyon\E-voting\E-voting\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\damla\OneDrive\Masaüstü\16.Versiyon\E-voting\E-voting\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\damla\OneDrive\Masaüstü\16.Versiyon\E-voting\E-voting\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\damla\OneDrive\Masaüstü\16.Versiyon\E-voting\E-voting\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\damla\OneDrive\Masaüstü\16.Versiyon\E-voting\E-voting\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\damla\OneDrive\Masaüstü\16.Versiyon\E-voting\E-voting\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\damla\OneDrive\Masaüstü\16.Versiyon\E-voting\E-voting\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\damla\OneDrive\Masaüstü\16.Versiyon\E-voting\E-voting\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\damla\OneDrive\Masaüstü\16.Versiyon\E-voting\E-voting\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\damla\OneDrive\Masaüstü\16.Versiyon\E-voting\E-voting\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\damla\OneDrive\Masaüstü\16.Versiyon\E-voting\E-voting\bin\roslyn\System.AppContext.dll
+C:\Users\damla\OneDrive\Masaüstü\16.Versiyon\E-voting\E-voting\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\damla\OneDrive\Masaüstü\16.Versiyon\E-voting\E-voting\bin\roslyn\System.Console.dll
+C:\Users\damla\OneDrive\Masaüstü\16.Versiyon\E-voting\E-voting\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\damla\OneDrive\Masaüstü\16.Versiyon\E-voting\E-voting\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\damla\OneDrive\Masaüstü\16.Versiyon\E-voting\E-voting\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\damla\OneDrive\Masaüstü\16.Versiyon\E-voting\E-voting\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\damla\OneDrive\Masaüstü\16.Versiyon\E-voting\E-voting\bin\roslyn\System.IO.Compression.dll
+C:\Users\damla\OneDrive\Masaüstü\16.Versiyon\E-voting\E-voting\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\damla\OneDrive\Masaüstü\16.Versiyon\E-voting\E-voting\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\damla\OneDrive\Masaüstü\16.Versiyon\E-voting\E-voting\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\damla\OneDrive\Masaüstü\16.Versiyon\E-voting\E-voting\bin\roslyn\System.Net.Http.dll
+C:\Users\damla\OneDrive\Masaüstü\16.Versiyon\E-voting\E-voting\bin\roslyn\System.Net.Sockets.dll
+C:\Users\damla\OneDrive\Masaüstü\16.Versiyon\E-voting\E-voting\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\damla\OneDrive\Masaüstü\16.Versiyon\E-voting\E-voting\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\damla\OneDrive\Masaüstü\16.Versiyon\E-voting\E-voting\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\damla\OneDrive\Masaüstü\16.Versiyon\E-voting\E-voting\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\damla\OneDrive\Masaüstü\16.Versiyon\E-voting\E-voting\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\damla\OneDrive\Masaüstü\16.Versiyon\E-voting\E-voting\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\damla\OneDrive\Masaüstü\16.Versiyon\E-voting\E-voting\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\damla\OneDrive\Masaüstü\16.Versiyon\E-voting\E-voting\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\damla\OneDrive\Masaüstü\16.Versiyon\E-voting\E-voting\bin\roslyn\System.ValueTuple.dll
+C:\Users\damla\OneDrive\Masaüstü\16.Versiyon\E-voting\E-voting\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\damla\OneDrive\Masaüstü\16.Versiyon\E-voting\E-voting\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\damla\OneDrive\Masaüstü\16.Versiyon\E-voting\E-voting\bin\roslyn\System.Xml.XPath.dll
+C:\Users\damla\OneDrive\Masaüstü\16.Versiyon\E-voting\E-voting\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\damla\OneDrive\Masaüstü\16.Versiyon\E-voting\E-voting\bin\roslyn\vbc.exe
+C:\Users\damla\OneDrive\Masaüstü\16.Versiyon\E-voting\E-voting\bin\roslyn\vbc.exe.config
+C:\Users\damla\OneDrive\Masaüstü\16.Versiyon\E-voting\E-voting\bin\roslyn\vbc.rsp
+C:\Users\damla\OneDrive\Masaüstü\16.Versiyon\E-voting\E-voting\bin\roslyn\VBCSCompiler.exe
+C:\Users\damla\OneDrive\Masaüstü\16.Versiyon\E-voting\E-voting\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\damla\OneDrive\Masaüstü\16.Versiyon\E-voting\E-voting\bin\EntityFramework.dll
+C:\Users\damla\OneDrive\Masaüstü\16.Versiyon\E-voting\E-voting\bin\EntityFramework.SqlServer.dll
+C:\Users\damla\OneDrive\Masaüstü\16.Versiyon\E-voting\E-voting\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\damla\OneDrive\Masaüstü\16.Versiyon\E-voting\E-voting\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\damla\OneDrive\Masaüstü\16.Versiyon\E-voting\E-voting\bin\System.Web.Helpers.dll
+C:\Users\damla\OneDrive\Masaüstü\16.Versiyon\E-voting\E-voting\bin\System.Web.Mvc.dll
+C:\Users\damla\OneDrive\Masaüstü\16.Versiyon\E-voting\E-voting\bin\System.Web.Razor.dll
+C:\Users\damla\OneDrive\Masaüstü\16.Versiyon\E-voting\E-voting\bin\System.Web.WebPages.Deployment.dll
+C:\Users\damla\OneDrive\Masaüstü\16.Versiyon\E-voting\E-voting\bin\System.Web.WebPages.dll
+C:\Users\damla\OneDrive\Masaüstü\16.Versiyon\E-voting\E-voting\bin\System.Web.WebPages.Razor.dll
+C:\Users\damla\OneDrive\Masaüstü\16.Versiyon\E-voting\E-voting\bin\EntityFramework.xml
+C:\Users\damla\OneDrive\Masaüstü\16.Versiyon\E-voting\E-voting\bin\EntityFramework.SqlServer.xml
+C:\Users\damla\OneDrive\Masaüstü\16.Versiyon\E-voting\E-voting\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\damla\OneDrive\Masaüstü\16.Versiyon\E-voting\E-voting\bin\System.Web.Helpers.xml
+C:\Users\damla\OneDrive\Masaüstü\16.Versiyon\E-voting\E-voting\bin\System.Web.Mvc.xml
+C:\Users\damla\OneDrive\Masaüstü\16.Versiyon\E-voting\E-voting\bin\System.Web.Razor.xml
+C:\Users\damla\OneDrive\Masaüstü\16.Versiyon\E-voting\E-voting\bin\System.Web.WebPages.xml
+C:\Users\damla\OneDrive\Masaüstü\16.Versiyon\E-voting\E-voting\bin\System.Web.WebPages.Deployment.xml
+C:\Users\damla\OneDrive\Masaüstü\16.Versiyon\E-voting\E-voting\bin\System.Web.WebPages.Razor.xml
+C:\Users\damla\OneDrive\Masaüstü\16.Versiyon\E-voting\E-voting\obj\Debug\E-voting.csprojAssemblyReference.cache
+C:\Users\damla\OneDrive\Masaüstü\16.Versiyon\E-voting\E-voting\obj\Debug\E-voting.csproj.CoreCompileInputs.cache
+C:\Users\damla\OneDrive\Masaüstü\16.Versiyon\E-voting\E-voting\obj\Debug\E-voting.csproj.CopyComplete
+C:\Users\damla\OneDrive\Masaüstü\16.Versiyon\E-voting\E-voting\obj\Debug\E-voting.dll
+C:\Users\damla\OneDrive\Masaüstü\16.Versiyon\E-voting\E-voting\obj\Debug\E-voting.pdb
+D:\3. Sinif 1. Donem\Data Sec\17.Versiyon\E-voting\E-voting\bin\E-voting.dll.config
+D:\3. Sinif 1. Donem\Data Sec\17.Versiyon\E-voting\E-voting\bin\E-voting.dll
+D:\3. Sinif 1. Donem\Data Sec\17.Versiyon\E-voting\E-voting\bin\E-voting.pdb
+D:\3. Sinif 1. Donem\Data Sec\17.Versiyon\E-voting\E-voting\bin\roslyn\csc.exe
+D:\3. Sinif 1. Donem\Data Sec\17.Versiyon\E-voting\E-voting\bin\roslyn\csc.exe.config
+D:\3. Sinif 1. Donem\Data Sec\17.Versiyon\E-voting\E-voting\bin\roslyn\csc.rsp
+D:\3. Sinif 1. Donem\Data Sec\17.Versiyon\E-voting\E-voting\bin\roslyn\csi.exe
+D:\3. Sinif 1. Donem\Data Sec\17.Versiyon\E-voting\E-voting\bin\roslyn\csi.exe.config
+D:\3. Sinif 1. Donem\Data Sec\17.Versiyon\E-voting\E-voting\bin\roslyn\csi.rsp
+D:\3. Sinif 1. Donem\Data Sec\17.Versiyon\E-voting\E-voting\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\3. Sinif 1. Donem\Data Sec\17.Versiyon\E-voting\E-voting\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\3. Sinif 1. Donem\Data Sec\17.Versiyon\E-voting\E-voting\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\3. Sinif 1. Donem\Data Sec\17.Versiyon\E-voting\E-voting\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\3. Sinif 1. Donem\Data Sec\17.Versiyon\E-voting\E-voting\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\3. Sinif 1. Donem\Data Sec\17.Versiyon\E-voting\E-voting\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\3. Sinif 1. Donem\Data Sec\17.Versiyon\E-voting\E-voting\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\3. Sinif 1. Donem\Data Sec\17.Versiyon\E-voting\E-voting\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\3. Sinif 1. Donem\Data Sec\17.Versiyon\E-voting\E-voting\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\3. Sinif 1. Donem\Data Sec\17.Versiyon\E-voting\E-voting\bin\roslyn\Microsoft.Managed.Core.targets
+D:\3. Sinif 1. Donem\Data Sec\17.Versiyon\E-voting\E-voting\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\3. Sinif 1. Donem\Data Sec\17.Versiyon\E-voting\E-voting\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\3. Sinif 1. Donem\Data Sec\17.Versiyon\E-voting\E-voting\bin\roslyn\System.AppContext.dll
+D:\3. Sinif 1. Donem\Data Sec\17.Versiyon\E-voting\E-voting\bin\roslyn\System.Collections.Immutable.dll
+D:\3. Sinif 1. Donem\Data Sec\17.Versiyon\E-voting\E-voting\bin\roslyn\System.Console.dll
+D:\3. Sinif 1. Donem\Data Sec\17.Versiyon\E-voting\E-voting\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\3. Sinif 1. Donem\Data Sec\17.Versiyon\E-voting\E-voting\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\3. Sinif 1. Donem\Data Sec\17.Versiyon\E-voting\E-voting\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\3. Sinif 1. Donem\Data Sec\17.Versiyon\E-voting\E-voting\bin\roslyn\System.Globalization.Calendars.dll
+D:\3. Sinif 1. Donem\Data Sec\17.Versiyon\E-voting\E-voting\bin\roslyn\System.IO.Compression.dll
+D:\3. Sinif 1. Donem\Data Sec\17.Versiyon\E-voting\E-voting\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\3. Sinif 1. Donem\Data Sec\17.Versiyon\E-voting\E-voting\bin\roslyn\System.IO.FileSystem.dll
+D:\3. Sinif 1. Donem\Data Sec\17.Versiyon\E-voting\E-voting\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\3. Sinif 1. Donem\Data Sec\17.Versiyon\E-voting\E-voting\bin\roslyn\System.Net.Http.dll
+D:\3. Sinif 1. Donem\Data Sec\17.Versiyon\E-voting\E-voting\bin\roslyn\System.Net.Sockets.dll
+D:\3. Sinif 1. Donem\Data Sec\17.Versiyon\E-voting\E-voting\bin\roslyn\System.Reflection.Metadata.dll
+D:\3. Sinif 1. Donem\Data Sec\17.Versiyon\E-voting\E-voting\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\3. Sinif 1. Donem\Data Sec\17.Versiyon\E-voting\E-voting\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\3. Sinif 1. Donem\Data Sec\17.Versiyon\E-voting\E-voting\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\3. Sinif 1. Donem\Data Sec\17.Versiyon\E-voting\E-voting\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\3. Sinif 1. Donem\Data Sec\17.Versiyon\E-voting\E-voting\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\3. Sinif 1. Donem\Data Sec\17.Versiyon\E-voting\E-voting\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\3. Sinif 1. Donem\Data Sec\17.Versiyon\E-voting\E-voting\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\3. Sinif 1. Donem\Data Sec\17.Versiyon\E-voting\E-voting\bin\roslyn\System.ValueTuple.dll
+D:\3. Sinif 1. Donem\Data Sec\17.Versiyon\E-voting\E-voting\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\3. Sinif 1. Donem\Data Sec\17.Versiyon\E-voting\E-voting\bin\roslyn\System.Xml.XmlDocument.dll
+D:\3. Sinif 1. Donem\Data Sec\17.Versiyon\E-voting\E-voting\bin\roslyn\System.Xml.XPath.dll
+D:\3. Sinif 1. Donem\Data Sec\17.Versiyon\E-voting\E-voting\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\3. Sinif 1. Donem\Data Sec\17.Versiyon\E-voting\E-voting\bin\roslyn\vbc.exe
+D:\3. Sinif 1. Donem\Data Sec\17.Versiyon\E-voting\E-voting\bin\roslyn\vbc.exe.config
+D:\3. Sinif 1. Donem\Data Sec\17.Versiyon\E-voting\E-voting\bin\roslyn\vbc.rsp
+D:\3. Sinif 1. Donem\Data Sec\17.Versiyon\E-voting\E-voting\bin\roslyn\VBCSCompiler.exe
+D:\3. Sinif 1. Donem\Data Sec\17.Versiyon\E-voting\E-voting\bin\roslyn\VBCSCompiler.exe.config
+D:\3. Sinif 1. Donem\Data Sec\17.Versiyon\E-voting\E-voting\bin\EntityFramework.dll
+D:\3. Sinif 1. Donem\Data Sec\17.Versiyon\E-voting\E-voting\bin\EntityFramework.SqlServer.dll
+D:\3. Sinif 1. Donem\Data Sec\17.Versiyon\E-voting\E-voting\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\3. Sinif 1. Donem\Data Sec\17.Versiyon\E-voting\E-voting\bin\Microsoft.Web.Infrastructure.dll
+D:\3. Sinif 1. Donem\Data Sec\17.Versiyon\E-voting\E-voting\bin\System.Web.Helpers.dll
+D:\3. Sinif 1. Donem\Data Sec\17.Versiyon\E-voting\E-voting\bin\System.Web.Mvc.dll
+D:\3. Sinif 1. Donem\Data Sec\17.Versiyon\E-voting\E-voting\bin\System.Web.Razor.dll
+D:\3. Sinif 1. Donem\Data Sec\17.Versiyon\E-voting\E-voting\bin\System.Web.WebPages.Deployment.dll
+D:\3. Sinif 1. Donem\Data Sec\17.Versiyon\E-voting\E-voting\bin\System.Web.WebPages.dll
+D:\3. Sinif 1. Donem\Data Sec\17.Versiyon\E-voting\E-voting\bin\System.Web.WebPages.Razor.dll
+D:\3. Sinif 1. Donem\Data Sec\17.Versiyon\E-voting\E-voting\bin\EntityFramework.xml
+D:\3. Sinif 1. Donem\Data Sec\17.Versiyon\E-voting\E-voting\bin\EntityFramework.SqlServer.xml
+D:\3. Sinif 1. Donem\Data Sec\17.Versiyon\E-voting\E-voting\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\3. Sinif 1. Donem\Data Sec\17.Versiyon\E-voting\E-voting\bin\System.Web.Helpers.xml
+D:\3. Sinif 1. Donem\Data Sec\17.Versiyon\E-voting\E-voting\bin\System.Web.Mvc.xml
+D:\3. Sinif 1. Donem\Data Sec\17.Versiyon\E-voting\E-voting\bin\System.Web.Razor.xml
+D:\3. Sinif 1. Donem\Data Sec\17.Versiyon\E-voting\E-voting\bin\System.Web.WebPages.xml
+D:\3. Sinif 1. Donem\Data Sec\17.Versiyon\E-voting\E-voting\bin\System.Web.WebPages.Deployment.xml
+D:\3. Sinif 1. Donem\Data Sec\17.Versiyon\E-voting\E-voting\bin\System.Web.WebPages.Razor.xml
+D:\3. Sinif 1. Donem\Data Sec\17.Versiyon\E-voting\E-voting\obj\Debug\E-voting.csprojAssemblyReference.cache
+D:\3. Sinif 1. Donem\Data Sec\17.Versiyon\E-voting\E-voting\obj\Debug\E-voting.csproj.CoreCompileInputs.cache
+D:\3. Sinif 1. Donem\Data Sec\17.Versiyon\E-voting\E-voting\obj\Debug\E-voting.csproj.CopyComplete
+D:\3. Sinif 1. Donem\Data Sec\17.Versiyon\E-voting\E-voting\obj\Debug\E-voting.dll
+D:\3. Sinif 1. Donem\Data Sec\17.Versiyon\E-voting\E-voting\obj\Debug\E-voting.pdb
+C:\Users\ASUS\Desktop\3 - 1\Data Security\PROJE\18.Versiyon\E-voting\E-voting\bin\E-voting.dll.config
+C:\Users\ASUS\Desktop\3 - 1\Data Security\PROJE\18.Versiyon\E-voting\E-voting\bin\E-voting.dll
+C:\Users\ASUS\Desktop\3 - 1\Data Security\PROJE\18.Versiyon\E-voting\E-voting\bin\E-voting.pdb
+C:\Users\ASUS\Desktop\3 - 1\Data Security\PROJE\18.Versiyon\E-voting\E-voting\bin\roslyn\csc.exe
+C:\Users\ASUS\Desktop\3 - 1\Data Security\PROJE\18.Versiyon\E-voting\E-voting\bin\roslyn\csc.exe.config
+C:\Users\ASUS\Desktop\3 - 1\Data Security\PROJE\18.Versiyon\E-voting\E-voting\bin\roslyn\csc.rsp
+C:\Users\ASUS\Desktop\3 - 1\Data Security\PROJE\18.Versiyon\E-voting\E-voting\bin\roslyn\csi.exe
+C:\Users\ASUS\Desktop\3 - 1\Data Security\PROJE\18.Versiyon\E-voting\E-voting\bin\roslyn\csi.exe.config
+C:\Users\ASUS\Desktop\3 - 1\Data Security\PROJE\18.Versiyon\E-voting\E-voting\bin\roslyn\csi.rsp
+C:\Users\ASUS\Desktop\3 - 1\Data Security\PROJE\18.Versiyon\E-voting\E-voting\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ASUS\Desktop\3 - 1\Data Security\PROJE\18.Versiyon\E-voting\E-voting\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ASUS\Desktop\3 - 1\Data Security\PROJE\18.Versiyon\E-voting\E-voting\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ASUS\Desktop\3 - 1\Data Security\PROJE\18.Versiyon\E-voting\E-voting\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ASUS\Desktop\3 - 1\Data Security\PROJE\18.Versiyon\E-voting\E-voting\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ASUS\Desktop\3 - 1\Data Security\PROJE\18.Versiyon\E-voting\E-voting\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ASUS\Desktop\3 - 1\Data Security\PROJE\18.Versiyon\E-voting\E-voting\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ASUS\Desktop\3 - 1\Data Security\PROJE\18.Versiyon\E-voting\E-voting\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ASUS\Desktop\3 - 1\Data Security\PROJE\18.Versiyon\E-voting\E-voting\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ASUS\Desktop\3 - 1\Data Security\PROJE\18.Versiyon\E-voting\E-voting\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ASUS\Desktop\3 - 1\Data Security\PROJE\18.Versiyon\E-voting\E-voting\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ASUS\Desktop\3 - 1\Data Security\PROJE\18.Versiyon\E-voting\E-voting\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ASUS\Desktop\3 - 1\Data Security\PROJE\18.Versiyon\E-voting\E-voting\bin\roslyn\System.AppContext.dll
+C:\Users\ASUS\Desktop\3 - 1\Data Security\PROJE\18.Versiyon\E-voting\E-voting\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ASUS\Desktop\3 - 1\Data Security\PROJE\18.Versiyon\E-voting\E-voting\bin\roslyn\System.Console.dll
+C:\Users\ASUS\Desktop\3 - 1\Data Security\PROJE\18.Versiyon\E-voting\E-voting\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ASUS\Desktop\3 - 1\Data Security\PROJE\18.Versiyon\E-voting\E-voting\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ASUS\Desktop\3 - 1\Data Security\PROJE\18.Versiyon\E-voting\E-voting\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ASUS\Desktop\3 - 1\Data Security\PROJE\18.Versiyon\E-voting\E-voting\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\ASUS\Desktop\3 - 1\Data Security\PROJE\18.Versiyon\E-voting\E-voting\bin\roslyn\System.IO.Compression.dll
+C:\Users\ASUS\Desktop\3 - 1\Data Security\PROJE\18.Versiyon\E-voting\E-voting\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\ASUS\Desktop\3 - 1\Data Security\PROJE\18.Versiyon\E-voting\E-voting\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ASUS\Desktop\3 - 1\Data Security\PROJE\18.Versiyon\E-voting\E-voting\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ASUS\Desktop\3 - 1\Data Security\PROJE\18.Versiyon\E-voting\E-voting\bin\roslyn\System.Net.Http.dll
+C:\Users\ASUS\Desktop\3 - 1\Data Security\PROJE\18.Versiyon\E-voting\E-voting\bin\roslyn\System.Net.Sockets.dll
+C:\Users\ASUS\Desktop\3 - 1\Data Security\PROJE\18.Versiyon\E-voting\E-voting\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ASUS\Desktop\3 - 1\Data Security\PROJE\18.Versiyon\E-voting\E-voting\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ASUS\Desktop\3 - 1\Data Security\PROJE\18.Versiyon\E-voting\E-voting\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ASUS\Desktop\3 - 1\Data Security\PROJE\18.Versiyon\E-voting\E-voting\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ASUS\Desktop\3 - 1\Data Security\PROJE\18.Versiyon\E-voting\E-voting\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ASUS\Desktop\3 - 1\Data Security\PROJE\18.Versiyon\E-voting\E-voting\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ASUS\Desktop\3 - 1\Data Security\PROJE\18.Versiyon\E-voting\E-voting\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ASUS\Desktop\3 - 1\Data Security\PROJE\18.Versiyon\E-voting\E-voting\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ASUS\Desktop\3 - 1\Data Security\PROJE\18.Versiyon\E-voting\E-voting\bin\roslyn\System.ValueTuple.dll
+C:\Users\ASUS\Desktop\3 - 1\Data Security\PROJE\18.Versiyon\E-voting\E-voting\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ASUS\Desktop\3 - 1\Data Security\PROJE\18.Versiyon\E-voting\E-voting\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ASUS\Desktop\3 - 1\Data Security\PROJE\18.Versiyon\E-voting\E-voting\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ASUS\Desktop\3 - 1\Data Security\PROJE\18.Versiyon\E-voting\E-voting\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ASUS\Desktop\3 - 1\Data Security\PROJE\18.Versiyon\E-voting\E-voting\bin\roslyn\vbc.exe
+C:\Users\ASUS\Desktop\3 - 1\Data Security\PROJE\18.Versiyon\E-voting\E-voting\bin\roslyn\vbc.exe.config
+C:\Users\ASUS\Desktop\3 - 1\Data Security\PROJE\18.Versiyon\E-voting\E-voting\bin\roslyn\vbc.rsp
+C:\Users\ASUS\Desktop\3 - 1\Data Security\PROJE\18.Versiyon\E-voting\E-voting\bin\roslyn\VBCSCompiler.exe
+C:\Users\ASUS\Desktop\3 - 1\Data Security\PROJE\18.Versiyon\E-voting\E-voting\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ASUS\Desktop\3 - 1\Data Security\PROJE\18.Versiyon\E-voting\E-voting\bin\EntityFramework.dll
+C:\Users\ASUS\Desktop\3 - 1\Data Security\PROJE\18.Versiyon\E-voting\E-voting\bin\EntityFramework.SqlServer.dll
+C:\Users\ASUS\Desktop\3 - 1\Data Security\PROJE\18.Versiyon\E-voting\E-voting\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ASUS\Desktop\3 - 1\Data Security\PROJE\18.Versiyon\E-voting\E-voting\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ASUS\Desktop\3 - 1\Data Security\PROJE\18.Versiyon\E-voting\E-voting\bin\System.Web.Helpers.dll
+C:\Users\ASUS\Desktop\3 - 1\Data Security\PROJE\18.Versiyon\E-voting\E-voting\bin\System.Web.Mvc.dll
+C:\Users\ASUS\Desktop\3 - 1\Data Security\PROJE\18.Versiyon\E-voting\E-voting\bin\System.Web.Razor.dll
+C:\Users\ASUS\Desktop\3 - 1\Data Security\PROJE\18.Versiyon\E-voting\E-voting\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ASUS\Desktop\3 - 1\Data Security\PROJE\18.Versiyon\E-voting\E-voting\bin\System.Web.WebPages.dll
+C:\Users\ASUS\Desktop\3 - 1\Data Security\PROJE\18.Versiyon\E-voting\E-voting\bin\System.Web.WebPages.Razor.dll
+C:\Users\ASUS\Desktop\3 - 1\Data Security\PROJE\18.Versiyon\E-voting\E-voting\bin\EntityFramework.xml
+C:\Users\ASUS\Desktop\3 - 1\Data Security\PROJE\18.Versiyon\E-voting\E-voting\bin\EntityFramework.SqlServer.xml
+C:\Users\ASUS\Desktop\3 - 1\Data Security\PROJE\18.Versiyon\E-voting\E-voting\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ASUS\Desktop\3 - 1\Data Security\PROJE\18.Versiyon\E-voting\E-voting\bin\System.Web.Helpers.xml
+C:\Users\ASUS\Desktop\3 - 1\Data Security\PROJE\18.Versiyon\E-voting\E-voting\bin\System.Web.Mvc.xml
+C:\Users\ASUS\Desktop\3 - 1\Data Security\PROJE\18.Versiyon\E-voting\E-voting\bin\System.Web.Razor.xml
+C:\Users\ASUS\Desktop\3 - 1\Data Security\PROJE\18.Versiyon\E-voting\E-voting\bin\System.Web.WebPages.xml
+C:\Users\ASUS\Desktop\3 - 1\Data Security\PROJE\18.Versiyon\E-voting\E-voting\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ASUS\Desktop\3 - 1\Data Security\PROJE\18.Versiyon\E-voting\E-voting\bin\System.Web.WebPages.Razor.xml
+C:\Users\ASUS\Desktop\3 - 1\Data Security\PROJE\18.Versiyon\E-voting\E-voting\obj\Debug\E-voting.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\3 - 1\Data Security\PROJE\18.Versiyon\E-voting\E-voting\obj\Debug\E-voting.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\3 - 1\Data Security\PROJE\18.Versiyon\E-voting\E-voting\obj\Debug\E-voting.csproj.CopyComplete
+C:\Users\ASUS\Desktop\3 - 1\Data Security\PROJE\18.Versiyon\E-voting\E-voting\obj\Debug\E-voting.dll
+C:\Users\ASUS\Desktop\3 - 1\Data Security\PROJE\18.Versiyon\E-voting\E-voting\obj\Debug\E-voting.pdb
