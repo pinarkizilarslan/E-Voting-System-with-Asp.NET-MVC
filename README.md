@@ -2,10 +2,6 @@
 
 It is an E-Voting system made in the Asp.NET MVC project. Information such as voter, candidate, vote, e-mail, password are stored in the database.
 
-<img width="392" alt="Resim1" src="https://user-images.githubusercontent.com/63308712/112643983-f80e8e80-8e55-11eb-8e40-2c58dac89a9b.png">
-Fig.1 The system architecture
-<br />
-
 ### Methodology
 The system will be built on a web based Asp.NET MVC project. Voter information, candidate information, vote papers, election results will be kept in a relational database. The votes used will be recorded in the database with the RSA encryption algorithm. General operation will be as follows, voters access a panel where they can vote after logging into the system with their username and password. Candidate information is listed on the panel and the voter uses the vote. After the voting is over, the votes cast are counted and the results are displayed graphically in the system.
 
@@ -20,6 +16,11 @@ The passwords of the voters used in system login will be encrypted with Crypto H
 <br />
 
 ### Web interface pictures of the system
+
+<img width="392" alt="Resim1" src="https://user-images.githubusercontent.com/63308712/112643983-f80e8e80-8e55-11eb-8e40-2c58dac89a9b.png">
+Fig.1 The system architecture
+<br />
+<br />
 
 <img width="251" alt="Resim2" src="https://user-images.githubusercontent.com/63308712/112648823-f3000e00-8e5a-11eb-8dac-f325b8b5d2a0.png">
 Fig.2 In order to log into the system, e-mail - password is verified for the user and the administrator on the login screen
