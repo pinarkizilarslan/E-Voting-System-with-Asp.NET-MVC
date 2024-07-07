@@ -11,9 +11,13 @@ A website that has both an interface for voters and a management panel will be d
 ### Dataset:
 Microsoft SQL Server Management Studio 2018 version 15.0.00.5 will be used as the database system. Entity Framework will be used for operations such as CRUD transactions on the system. Adding data will be done with JQuery, which is a JS library.
 
+### Database:
+![DB](https://github.com/pinarkizilarslan/E-Voting-System-with-Asp.NET-MVC/assets/63308712/fc937572-9fcd-4152-8bb8-571d86399dcb)
+<br />
+
 ###	Encryption Algorithms:
 The passwords of the voters used in system login will be encrypted with Crypto Helpers and MD5 encryption function will be used. RSA algorithm will be used for encryption of votes. For this, the System.Security.Cryptography library will be used. 
-<br /> <br />
+<br /> <br /> <br />
 
 ### Web Interface Pictures:
 
